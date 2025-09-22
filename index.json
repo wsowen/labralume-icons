@@ -1,0 +1,3578 @@
+{
+  "version": "1.0.0",
+  "total": 595,
+  "generated": "2025-09-22T12:00:55.269Z",
+  "baseUrl": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest",
+  "icons": [
+    {
+      "name": "add-accent",
+      "file": "add-accent.png",
+      "path": "/icons/all/add-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/add-accent.png"
+    },
+    {
+      "name": "add-active",
+      "file": "add-active.png",
+      "path": "/icons/all/add-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/add-active.png"
+    },
+    {
+      "name": "add-default",
+      "file": "add-default.png",
+      "path": "/icons/all/add-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/add-default.png"
+    },
+    {
+      "name": "alert-accent",
+      "file": "alert-accent.png",
+      "path": "/icons/all/alert-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/alert-accent.png"
+    },
+    {
+      "name": "alert-active",
+      "file": "alert-active.png",
+      "path": "/icons/all/alert-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/alert-active.png"
+    },
+    {
+      "name": "alert-default",
+      "file": "alert-default.png",
+      "path": "/icons/all/alert-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/alert-default.png"
+    },
+    {
+      "name": "arrow-down-accent",
+      "file": "arrow-down-accent.png",
+      "path": "/icons/all/arrow-down-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/arrow-down-accent.png"
+    },
+    {
+      "name": "arrow-down-active",
+      "file": "arrow-down-active.png",
+      "path": "/icons/all/arrow-down-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/arrow-down-active.png"
+    },
+    {
+      "name": "arrow-down-default",
+      "file": "arrow-down-default.png",
+      "path": "/icons/all/arrow-down-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/arrow-down-default.png"
+    },
+    {
+      "name": "arrow-left-accent",
+      "file": "arrow-left-accent.png",
+      "path": "/icons/all/arrow-left-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/arrow-left-accent.png"
+    },
+    {
+      "name": "arrow-left-active",
+      "file": "arrow-left-active.png",
+      "path": "/icons/all/arrow-left-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/arrow-left-active.png"
+    },
+    {
+      "name": "arrow-left-default",
+      "file": "arrow-left-default.png",
+      "path": "/icons/all/arrow-left-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/arrow-left-default.png"
+    },
+    {
+      "name": "arrow-right-accent",
+      "file": "arrow-right-accent.png",
+      "path": "/icons/all/arrow-right-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/arrow-right-accent.png"
+    },
+    {
+      "name": "arrow-right-active",
+      "file": "arrow-right-active.png",
+      "path": "/icons/all/arrow-right-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/arrow-right-active.png"
+    },
+    {
+      "name": "arrow-right-default",
+      "file": "arrow-right-default.png",
+      "path": "/icons/all/arrow-right-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/arrow-right-default.png"
+    },
+    {
+      "name": "arrow-up-default",
+      "file": "arrow-up-default.png",
+      "path": "/icons/all/arrow-up-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/arrow-up-default.png"
+    },
+    {
+      "name": "award-fill-accent",
+      "file": "award-fill-accent.png",
+      "path": "/icons/all/award-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/award-fill-accent.png"
+    },
+    {
+      "name": "award-fill-active",
+      "file": "award-fill-active.png",
+      "path": "/icons/all/award-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/award-fill-active.png"
+    },
+    {
+      "name": "award-fill-default",
+      "file": "award-fill-default.png",
+      "path": "/icons/all/award-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/award-fill-default.png"
+    },
+    {
+      "name": "award-line-accent",
+      "file": "award-line-accent.png",
+      "path": "/icons/all/award-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/award-line-accent.png"
+    },
+    {
+      "name": "award-line-active",
+      "file": "award-line-active.png",
+      "path": "/icons/all/award-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/award-line-active.png"
+    },
+    {
+      "name": "award-line-default",
+      "file": "award-line-default.png",
+      "path": "/icons/all/award-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/award-line-default.png"
+    },
+    {
+      "name": "bank-card-fill-accent",
+      "file": "bank-card-fill-accent.png",
+      "path": "/icons/all/bank-card-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/bank-card-fill-accent.png"
+    },
+    {
+      "name": "bank-card-fill-active",
+      "file": "bank-card-fill-active.png",
+      "path": "/icons/all/bank-card-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/bank-card-fill-active.png"
+    },
+    {
+      "name": "bank-card-fill-default",
+      "file": "bank-card-fill-default.png",
+      "path": "/icons/all/bank-card-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/bank-card-fill-default.png"
+    },
+    {
+      "name": "bank-card-line-accent",
+      "file": "bank-card-line-accent.png",
+      "path": "/icons/all/bank-card-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/bank-card-line-accent.png"
+    },
+    {
+      "name": "bank-card-line-active",
+      "file": "bank-card-line-active.png",
+      "path": "/icons/all/bank-card-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/bank-card-line-active.png"
+    },
+    {
+      "name": "bank-card-line-default",
+      "file": "bank-card-line-default.png",
+      "path": "/icons/all/bank-card-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/bank-card-line-default.png"
+    },
+    {
+      "name": "bookmark-2-fill-accent",
+      "file": "bookmark-2-fill-accent.png",
+      "path": "/icons/all/bookmark-2-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/bookmark-2-fill-accent.png"
+    },
+    {
+      "name": "bookmark-2-fill-active",
+      "file": "bookmark-2-fill-active.png",
+      "path": "/icons/all/bookmark-2-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/bookmark-2-fill-active.png"
+    },
+    {
+      "name": "bookmark-2-fill-default",
+      "file": "bookmark-2-fill-default.png",
+      "path": "/icons/all/bookmark-2-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/bookmark-2-fill-default.png"
+    },
+    {
+      "name": "bookmark-2-line-accent",
+      "file": "bookmark-2-line-accent.png",
+      "path": "/icons/all/bookmark-2-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/bookmark-2-line-accent.png"
+    },
+    {
+      "name": "bookmark-2-line-active",
+      "file": "bookmark-2-line-active.png",
+      "path": "/icons/all/bookmark-2-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/bookmark-2-line-active.png"
+    },
+    {
+      "name": "bookmark-2-line-default",
+      "file": "bookmark-2-line-default.png",
+      "path": "/icons/all/bookmark-2-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/bookmark-2-line-default.png"
+    },
+    {
+      "name": "box-2-fill-accent",
+      "file": "box-2-fill-accent.png",
+      "path": "/icons/all/box-2-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/box-2-fill-accent.png"
+    },
+    {
+      "name": "box-2-fill-active",
+      "file": "box-2-fill-active.png",
+      "path": "/icons/all/box-2-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/box-2-fill-active.png"
+    },
+    {
+      "name": "box-2-fill-default",
+      "file": "box-2-fill-default.png",
+      "path": "/icons/all/box-2-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/box-2-fill-default.png"
+    },
+    {
+      "name": "box-2-line-accent",
+      "file": "box-2-line-accent.png",
+      "path": "/icons/all/box-2-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/box-2-line-accent.png"
+    },
+    {
+      "name": "box-2-line-active",
+      "file": "box-2-line-active.png",
+      "path": "/icons/all/box-2-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/box-2-line-active.png"
+    },
+    {
+      "name": "box-2-line-default",
+      "file": "box-2-line-default.png",
+      "path": "/icons/all/box-2-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/box-2-line-default.png"
+    },
+    {
+      "name": "cake-2-fill-accent",
+      "file": "cake-2-fill-accent.png",
+      "path": "/icons/all/cake-2-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/cake-2-fill-accent.png"
+    },
+    {
+      "name": "cake-2-fill-active",
+      "file": "cake-2-fill-active.png",
+      "path": "/icons/all/cake-2-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/cake-2-fill-active.png"
+    },
+    {
+      "name": "cake-2-fill-default",
+      "file": "cake-2-fill-default.png",
+      "path": "/icons/all/cake-2-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/cake-2-fill-default.png"
+    },
+    {
+      "name": "cake-2-line-accent",
+      "file": "cake-2-line-accent.png",
+      "path": "/icons/all/cake-2-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/cake-2-line-accent.png"
+    },
+    {
+      "name": "cake-2-line-active",
+      "file": "cake-2-line-active.png",
+      "path": "/icons/all/cake-2-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/cake-2-line-active.png"
+    },
+    {
+      "name": "cake-2-line-default",
+      "file": "cake-2-line-default.png",
+      "path": "/icons/all/cake-2-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/cake-2-line-default.png"
+    },
+    {
+      "name": "calendar-event-fill-accent",
+      "file": "calendar-event-fill-accent.png",
+      "path": "/icons/all/calendar-event-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/calendar-event-fill-accent.png"
+    },
+    {
+      "name": "calendar-event-fill-active",
+      "file": "calendar-event-fill-active.png",
+      "path": "/icons/all/calendar-event-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/calendar-event-fill-active.png"
+    },
+    {
+      "name": "calendar-event-fill-default",
+      "file": "calendar-event-fill-default.png",
+      "path": "/icons/all/calendar-event-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/calendar-event-fill-default.png"
+    },
+    {
+      "name": "calendar-event-line-accent",
+      "file": "calendar-event-line-accent.png",
+      "path": "/icons/all/calendar-event-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/calendar-event-line-accent.png"
+    },
+    {
+      "name": "calendar-event-line-active",
+      "file": "calendar-event-line-active.png",
+      "path": "/icons/all/calendar-event-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/calendar-event-line-active.png"
+    },
+    {
+      "name": "calendar-event-line-default",
+      "file": "calendar-event-line-default.png",
+      "path": "/icons/all/calendar-event-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/calendar-event-line-default.png"
+    },
+    {
+      "name": "cart-fill_colored-accent",
+      "file": "cart-fill_colored-accent.png",
+      "path": "/icons/all/cart-fill_colored-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/cart-fill_colored-accent.png"
+    },
+    {
+      "name": "cart-fill_colored-active",
+      "file": "cart-fill_colored-active.png",
+      "path": "/icons/all/cart-fill_colored-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/cart-fill_colored-active.png"
+    },
+    {
+      "name": "cart-fill_colored-default",
+      "file": "cart-fill_colored-default.png",
+      "path": "/icons/all/cart-fill_colored-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/cart-fill_colored-default.png"
+    },
+    {
+      "name": "cart-line_colored-accent",
+      "file": "cart-line_colored-accent.png",
+      "path": "/icons/all/cart-line_colored-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/cart-line_colored-accent.png"
+    },
+    {
+      "name": "cart-line_colored-active",
+      "file": "cart-line_colored-active.png",
+      "path": "/icons/all/cart-line_colored-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/cart-line_colored-active.png"
+    },
+    {
+      "name": "cart-line_colored-default",
+      "file": "cart-line_colored-default.png",
+      "path": "/icons/all/cart-line_colored-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/cart-line_colored-default.png"
+    },
+    {
+      "name": "category-fill-accent",
+      "file": "category-fill-accent.png",
+      "path": "/icons/all/category-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/category-fill-accent.png"
+    },
+    {
+      "name": "category-fill-active",
+      "file": "category-fill-active.png",
+      "path": "/icons/all/category-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/category-fill-active.png"
+    },
+    {
+      "name": "category-fill-default",
+      "file": "category-fill-default.png",
+      "path": "/icons/all/category-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/category-fill-default.png"
+    },
+    {
+      "name": "category-fill_colored-accent",
+      "file": "category-fill_colored-accent.png",
+      "path": "/icons/all/category-fill_colored-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/category-fill_colored-accent.png"
+    },
+    {
+      "name": "category-fill_colored-active",
+      "file": "category-fill_colored-active.png",
+      "path": "/icons/all/category-fill_colored-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/category-fill_colored-active.png"
+    },
+    {
+      "name": "category-fill_colored-default",
+      "file": "category-fill_colored-default.png",
+      "path": "/icons/all/category-fill_colored-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/category-fill_colored-default.png"
+    },
+    {
+      "name": "category-line-accent",
+      "file": "category-line-accent.png",
+      "path": "/icons/all/category-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/category-line-accent.png"
+    },
+    {
+      "name": "category-line-active",
+      "file": "category-line-active.png",
+      "path": "/icons/all/category-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/category-line-active.png"
+    },
+    {
+      "name": "category-line-default",
+      "file": "category-line-default.png",
+      "path": "/icons/all/category-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/category-line-default.png"
+    },
+    {
+      "name": "category-line_colored-accent",
+      "file": "category-line_colored-accent.png",
+      "path": "/icons/all/category-line_colored-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/category-line_colored-accent.png"
+    },
+    {
+      "name": "category-line_colored-active",
+      "file": "category-line_colored-active.png",
+      "path": "/icons/all/category-line_colored-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/category-line_colored-active.png"
+    },
+    {
+      "name": "category-line_colored-default",
+      "file": "category-line_colored-default.png",
+      "path": "/icons/all/category-line_colored-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/category-line_colored-default.png"
+    },
+    {
+      "name": "check-accent",
+      "file": "check-accent.png",
+      "path": "/icons/all/check-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/check-accent.png"
+    },
+    {
+      "name": "check-active",
+      "file": "check-active.png",
+      "path": "/icons/all/check-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/check-active.png"
+    },
+    {
+      "name": "check-default",
+      "file": "check-default.png",
+      "path": "/icons/all/check-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/check-default.png"
+    },
+    {
+      "name": "checkbox-blank-circle-fill-accent",
+      "file": "checkbox-blank-circle-fill-accent.png",
+      "path": "/icons/all/checkbox-blank-circle-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-blank-circle-fill-accent.png"
+    },
+    {
+      "name": "checkbox-blank-circle-fill-active",
+      "file": "checkbox-blank-circle-fill-active.png",
+      "path": "/icons/all/checkbox-blank-circle-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-blank-circle-fill-active.png"
+    },
+    {
+      "name": "checkbox-blank-circle-fill-default",
+      "file": "checkbox-blank-circle-fill-default.png",
+      "path": "/icons/all/checkbox-blank-circle-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-blank-circle-fill-default.png"
+    },
+    {
+      "name": "checkbox-blank-circle-line-accent",
+      "file": "checkbox-blank-circle-line-accent.png",
+      "path": "/icons/all/checkbox-blank-circle-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-blank-circle-line-accent.png"
+    },
+    {
+      "name": "checkbox-blank-circle-line-active",
+      "file": "checkbox-blank-circle-line-active.png",
+      "path": "/icons/all/checkbox-blank-circle-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-blank-circle-line-active.png"
+    },
+    {
+      "name": "checkbox-blank-circle-line-default",
+      "file": "checkbox-blank-circle-line-default.png",
+      "path": "/icons/all/checkbox-blank-circle-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-blank-circle-line-default.png"
+    },
+    {
+      "name": "checkbox-blank-fill-accent",
+      "file": "checkbox-blank-fill-accent.png",
+      "path": "/icons/all/checkbox-blank-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-blank-fill-accent.png"
+    },
+    {
+      "name": "checkbox-blank-fill-active",
+      "file": "checkbox-blank-fill-active.png",
+      "path": "/icons/all/checkbox-blank-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-blank-fill-active.png"
+    },
+    {
+      "name": "checkbox-blank-fill-default",
+      "file": "checkbox-blank-fill-default.png",
+      "path": "/icons/all/checkbox-blank-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-blank-fill-default.png"
+    },
+    {
+      "name": "checkbox-blank-line-accent",
+      "file": "checkbox-blank-line-accent.png",
+      "path": "/icons/all/checkbox-blank-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-blank-line-accent.png"
+    },
+    {
+      "name": "checkbox-blank-line-active",
+      "file": "checkbox-blank-line-active.png",
+      "path": "/icons/all/checkbox-blank-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-blank-line-active.png"
+    },
+    {
+      "name": "checkbox-blank-line-default",
+      "file": "checkbox-blank-line-default.png",
+      "path": "/icons/all/checkbox-blank-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-blank-line-default.png"
+    },
+    {
+      "name": "checkbox-circle-fill-accent",
+      "file": "checkbox-circle-fill-accent.png",
+      "path": "/icons/all/checkbox-circle-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-circle-fill-accent.png"
+    },
+    {
+      "name": "checkbox-circle-fill-active",
+      "file": "checkbox-circle-fill-active.png",
+      "path": "/icons/all/checkbox-circle-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-circle-fill-active.png"
+    },
+    {
+      "name": "checkbox-circle-fill-default",
+      "file": "checkbox-circle-fill-default.png",
+      "path": "/icons/all/checkbox-circle-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-circle-fill-default.png"
+    },
+    {
+      "name": "checkbox-circle-line-accent",
+      "file": "checkbox-circle-line-accent.png",
+      "path": "/icons/all/checkbox-circle-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-circle-line-accent.png"
+    },
+    {
+      "name": "checkbox-circle-line-active",
+      "file": "checkbox-circle-line-active.png",
+      "path": "/icons/all/checkbox-circle-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-circle-line-active.png"
+    },
+    {
+      "name": "checkbox-circle-line-default",
+      "file": "checkbox-circle-line-default.png",
+      "path": "/icons/all/checkbox-circle-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-circle-line-default.png"
+    },
+    {
+      "name": "checkbox-fill-accent",
+      "file": "checkbox-fill-accent.png",
+      "path": "/icons/all/checkbox-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-fill-accent.png"
+    },
+    {
+      "name": "checkbox-fill-active",
+      "file": "checkbox-fill-active.png",
+      "path": "/icons/all/checkbox-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-fill-active.png"
+    },
+    {
+      "name": "checkbox-fill-default",
+      "file": "checkbox-fill-default.png",
+      "path": "/icons/all/checkbox-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-fill-default.png"
+    },
+    {
+      "name": "checkbox-indeterminate-fill-accent",
+      "file": "checkbox-indeterminate-fill-accent.png",
+      "path": "/icons/all/checkbox-indeterminate-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-indeterminate-fill-accent.png"
+    },
+    {
+      "name": "checkbox-indeterminate-fill-active",
+      "file": "checkbox-indeterminate-fill-active.png",
+      "path": "/icons/all/checkbox-indeterminate-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-indeterminate-fill-active.png"
+    },
+    {
+      "name": "checkbox-indeterminate-fill-default",
+      "file": "checkbox-indeterminate-fill-default.png",
+      "path": "/icons/all/checkbox-indeterminate-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-indeterminate-fill-default.png"
+    },
+    {
+      "name": "checkbox-indeterminate-line-accent",
+      "file": "checkbox-indeterminate-line-accent.png",
+      "path": "/icons/all/checkbox-indeterminate-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-indeterminate-line-accent.png"
+    },
+    {
+      "name": "checkbox-indeterminate-line-active",
+      "file": "checkbox-indeterminate-line-active.png",
+      "path": "/icons/all/checkbox-indeterminate-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-indeterminate-line-active.png"
+    },
+    {
+      "name": "checkbox-indeterminate-line-default",
+      "file": "checkbox-indeterminate-line-default.png",
+      "path": "/icons/all/checkbox-indeterminate-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-indeterminate-line-default.png"
+    },
+    {
+      "name": "checkbox-line-accent",
+      "file": "checkbox-line-accent.png",
+      "path": "/icons/all/checkbox-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-line-accent.png"
+    },
+    {
+      "name": "checkbox-line-active",
+      "file": "checkbox-line-active.png",
+      "path": "/icons/all/checkbox-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-line-active.png"
+    },
+    {
+      "name": "checkbox-line-default",
+      "file": "checkbox-line-default.png",
+      "path": "/icons/all/checkbox-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/checkbox-line-default.png"
+    },
+    {
+      "name": "close-accent",
+      "file": "close-accent.png",
+      "path": "/icons/all/close-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/close-accent.png"
+    },
+    {
+      "name": "close-active",
+      "file": "close-active.png",
+      "path": "/icons/all/close-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/close-active.png"
+    },
+    {
+      "name": "close-default",
+      "file": "close-default.png",
+      "path": "/icons/all/close-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/close-default.png"
+    },
+    {
+      "name": "compass-3-fill-accent",
+      "file": "compass-3-fill-accent.png",
+      "path": "/icons/all/compass-3-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/compass-3-fill-accent.png"
+    },
+    {
+      "name": "compass-3-fill-active",
+      "file": "compass-3-fill-active.png",
+      "path": "/icons/all/compass-3-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/compass-3-fill-active.png"
+    },
+    {
+      "name": "compass-3-fill-default",
+      "file": "compass-3-fill-default.png",
+      "path": "/icons/all/compass-3-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/compass-3-fill-default.png"
+    },
+    {
+      "name": "compass-3-line-accent",
+      "file": "compass-3-line-accent.png",
+      "path": "/icons/all/compass-3-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/compass-3-line-accent.png"
+    },
+    {
+      "name": "compass-3-line-active",
+      "file": "compass-3-line-active.png",
+      "path": "/icons/all/compass-3-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/compass-3-line-active.png"
+    },
+    {
+      "name": "compass-3-line-default",
+      "file": "compass-3-line-default.png",
+      "path": "/icons/all/compass-3-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/compass-3-line-default.png"
+    },
+    {
+      "name": "compass-discover-fill-accent",
+      "file": "compass-discover-fill-accent.png",
+      "path": "/icons/all/compass-discover-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/compass-discover-fill-accent.png"
+    },
+    {
+      "name": "compass-discover-fill-active",
+      "file": "compass-discover-fill-active.png",
+      "path": "/icons/all/compass-discover-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/compass-discover-fill-active.png"
+    },
+    {
+      "name": "compass-discover-fill-default",
+      "file": "compass-discover-fill-default.png",
+      "path": "/icons/all/compass-discover-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/compass-discover-fill-default.png"
+    },
+    {
+      "name": "compass-discover-line-accent",
+      "file": "compass-discover-line-accent.png",
+      "path": "/icons/all/compass-discover-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/compass-discover-line-accent.png"
+    },
+    {
+      "name": "compass-discover-line-active",
+      "file": "compass-discover-line-active.png",
+      "path": "/icons/all/compass-discover-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/compass-discover-line-active.png"
+    },
+    {
+      "name": "compass-discover-line-default",
+      "file": "compass-discover-line-default.png",
+      "path": "/icons/all/compass-discover-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/compass-discover-line-default.png"
+    },
+    {
+      "name": "coupon-3-fill-accent",
+      "file": "coupon-3-fill-accent.png",
+      "path": "/icons/all/coupon-3-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/coupon-3-fill-accent.png"
+    },
+    {
+      "name": "coupon-3-fill-active",
+      "file": "coupon-3-fill-active.png",
+      "path": "/icons/all/coupon-3-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/coupon-3-fill-active.png"
+    },
+    {
+      "name": "coupon-3-fill-default",
+      "file": "coupon-3-fill-default.png",
+      "path": "/icons/all/coupon-3-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/coupon-3-fill-default.png"
+    },
+    {
+      "name": "coupon-3-line-accent",
+      "file": "coupon-3-line-accent.png",
+      "path": "/icons/all/coupon-3-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/coupon-3-line-accent.png"
+    },
+    {
+      "name": "coupon-3-line-active",
+      "file": "coupon-3-line-active.png",
+      "path": "/icons/all/coupon-3-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/coupon-3-line-active.png"
+    },
+    {
+      "name": "coupon-3-line-default",
+      "file": "coupon-3-line-default.png",
+      "path": "/icons/all/coupon-3-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/coupon-3-line-default.png"
+    },
+    {
+      "name": "customer-service-2-fill-accent",
+      "file": "customer-service-2-fill-accent.png",
+      "path": "/icons/all/customer-service-2-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/customer-service-2-fill-accent.png"
+    },
+    {
+      "name": "customer-service-2-fill-active",
+      "file": "customer-service-2-fill-active.png",
+      "path": "/icons/all/customer-service-2-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/customer-service-2-fill-active.png"
+    },
+    {
+      "name": "customer-service-2-fill-default",
+      "file": "customer-service-2-fill-default.png",
+      "path": "/icons/all/customer-service-2-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/customer-service-2-fill-default.png"
+    },
+    {
+      "name": "customer-service-2-line-accent",
+      "file": "customer-service-2-line-accent.png",
+      "path": "/icons/all/customer-service-2-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/customer-service-2-line-accent.png"
+    },
+    {
+      "name": "customer-service-2-line-active",
+      "file": "customer-service-2-line-active.png",
+      "path": "/icons/all/customer-service-2-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/customer-service-2-line-active.png"
+    },
+    {
+      "name": "customer-service-2-line-default",
+      "file": "customer-service-2-line-default.png",
+      "path": "/icons/all/customer-service-2-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/customer-service-2-line-default.png"
+    },
+    {
+      "name": "customer-service-accent",
+      "file": "customer-service-accent.png",
+      "path": "/icons/all/customer-service-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/customer-service-accent.png"
+    },
+    {
+      "name": "customer-service-active",
+      "file": "customer-service-active.png",
+      "path": "/icons/all/customer-service-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/customer-service-active.png"
+    },
+    {
+      "name": "customer-service-default",
+      "file": "customer-service-default.png",
+      "path": "/icons/all/customer-service-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/customer-service-default.png"
+    },
+    {
+      "name": "delete-accent",
+      "file": "delete-accent.png",
+      "path": "/icons/all/delete-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/delete-accent.png"
+    },
+    {
+      "name": "delete-active",
+      "file": "delete-active.png",
+      "path": "/icons/all/delete-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/delete-active.png"
+    },
+    {
+      "name": "delete-default",
+      "file": "delete-default.png",
+      "path": "/icons/all/delete-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/delete-default.png"
+    },
+    {
+      "name": "discover-accent",
+      "file": "discover-accent.png",
+      "path": "/icons/all/discover-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/discover-accent.png"
+    },
+    {
+      "name": "discover-active-accent",
+      "file": "discover-active-accent.png",
+      "path": "/icons/all/discover-active-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/discover-active-accent.png"
+    },
+    {
+      "name": "discover-active-active",
+      "file": "discover-active-active.png",
+      "path": "/icons/all/discover-active-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/discover-active-active.png"
+    },
+    {
+      "name": "discover-active-default",
+      "file": "discover-active-default.png",
+      "path": "/icons/all/discover-active-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/discover-active-default.png"
+    },
+    {
+      "name": "discover-active",
+      "file": "discover-active.png",
+      "path": "/icons/all/discover-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/discover-active.png"
+    },
+    {
+      "name": "discover-default",
+      "file": "discover-default.png",
+      "path": "/icons/all/discover-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/discover-default.png"
+    },
+    {
+      "name": "discover-fill_colored-accent",
+      "file": "discover-fill_colored-accent.png",
+      "path": "/icons/all/discover-fill_colored-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/discover-fill_colored-accent.png"
+    },
+    {
+      "name": "discover-fill_colored-active",
+      "file": "discover-fill_colored-active.png",
+      "path": "/icons/all/discover-fill_colored-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/discover-fill_colored-active.png"
+    },
+    {
+      "name": "discover-fill_colored-default",
+      "file": "discover-fill_colored-default.png",
+      "path": "/icons/all/discover-fill_colored-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/discover-fill_colored-default.png"
+    },
+    {
+      "name": "discover-line_colored-accent",
+      "file": "discover-line_colored-accent.png",
+      "path": "/icons/all/discover-line_colored-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/discover-line_colored-accent.png"
+    },
+    {
+      "name": "discover-line_colored-active",
+      "file": "discover-line_colored-active.png",
+      "path": "/icons/all/discover-line_colored-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/discover-line_colored-active.png"
+    },
+    {
+      "name": "discover-line_colored-default",
+      "file": "discover-line_colored-default.png",
+      "path": "/icons/all/discover-line_colored-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/discover-line_colored-default.png"
+    },
+    {
+      "name": "download-accent",
+      "file": "download-accent.png",
+      "path": "/icons/all/download-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/download-accent.png"
+    },
+    {
+      "name": "download-active",
+      "file": "download-active.png",
+      "path": "/icons/all/download-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/download-active.png"
+    },
+    {
+      "name": "download-default",
+      "file": "download-default.png",
+      "path": "/icons/all/download-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/download-default.png"
+    },
+    {
+      "name": "earth-fill-accent",
+      "file": "earth-fill-accent.png",
+      "path": "/icons/all/earth-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/earth-fill-accent.png"
+    },
+    {
+      "name": "earth-fill-active",
+      "file": "earth-fill-active.png",
+      "path": "/icons/all/earth-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/earth-fill-active.png"
+    },
+    {
+      "name": "earth-fill-default",
+      "file": "earth-fill-default.png",
+      "path": "/icons/all/earth-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/earth-fill-default.png"
+    },
+    {
+      "name": "earth-line-accent",
+      "file": "earth-line-accent.png",
+      "path": "/icons/all/earth-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/earth-line-accent.png"
+    },
+    {
+      "name": "earth-line-active",
+      "file": "earth-line-active.png",
+      "path": "/icons/all/earth-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/earth-line-active.png"
+    },
+    {
+      "name": "earth-line-default",
+      "file": "earth-line-default.png",
+      "path": "/icons/all/earth-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/earth-line-default.png"
+    },
+    {
+      "name": "edit-accent",
+      "file": "edit-accent.png",
+      "path": "/icons/all/edit-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/edit-accent.png"
+    },
+    {
+      "name": "edit-active",
+      "file": "edit-active.png",
+      "path": "/icons/all/edit-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/edit-active.png"
+    },
+    {
+      "name": "edit-default",
+      "file": "edit-default.png",
+      "path": "/icons/all/edit-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/edit-default.png"
+    },
+    {
+      "name": "error-warning-fill-accent",
+      "file": "error-warning-fill-accent.png",
+      "path": "/icons/all/error-warning-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/error-warning-fill-accent.png"
+    },
+    {
+      "name": "error-warning-fill-active",
+      "file": "error-warning-fill-active.png",
+      "path": "/icons/all/error-warning-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/error-warning-fill-active.png"
+    },
+    {
+      "name": "error-warning-fill-default",
+      "file": "error-warning-fill-default.png",
+      "path": "/icons/all/error-warning-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/error-warning-fill-default.png"
+    },
+    {
+      "name": "error-warning-line-accent",
+      "file": "error-warning-line-accent.png",
+      "path": "/icons/all/error-warning-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/error-warning-line-accent.png"
+    },
+    {
+      "name": "error-warning-line-active",
+      "file": "error-warning-line-active.png",
+      "path": "/icons/all/error-warning-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/error-warning-line-active.png"
+    },
+    {
+      "name": "error-warning-line-default",
+      "file": "error-warning-line-default.png",
+      "path": "/icons/all/error-warning-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/error-warning-line-default.png"
+    },
+    {
+      "name": "eye-accent",
+      "file": "eye-accent.png",
+      "path": "/icons/all/eye-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/eye-accent.png"
+    },
+    {
+      "name": "eye-active",
+      "file": "eye-active.png",
+      "path": "/icons/all/eye-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/eye-active.png"
+    },
+    {
+      "name": "eye-close-accent",
+      "file": "eye-close-accent.png",
+      "path": "/icons/all/eye-close-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/eye-close-accent.png"
+    },
+    {
+      "name": "eye-close-active",
+      "file": "eye-close-active.png",
+      "path": "/icons/all/eye-close-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/eye-close-active.png"
+    },
+    {
+      "name": "eye-close-default",
+      "file": "eye-close-default.png",
+      "path": "/icons/all/eye-close-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/eye-close-default.png"
+    },
+    {
+      "name": "eye-default",
+      "file": "eye-default.png",
+      "path": "/icons/all/eye-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/eye-default.png"
+    },
+    {
+      "name": "file-text-accent",
+      "file": "file-text-accent.png",
+      "path": "/icons/all/file-text-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/file-text-accent.png"
+    },
+    {
+      "name": "file-text-active",
+      "file": "file-text-active.png",
+      "path": "/icons/all/file-text-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/file-text-active.png"
+    },
+    {
+      "name": "file-text-default",
+      "file": "file-text-default.png",
+      "path": "/icons/all/file-text-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/file-text-default.png"
+    },
+    {
+      "name": "filter-3-fill-accent",
+      "file": "filter-3-fill-accent.png",
+      "path": "/icons/all/filter-3-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/filter-3-fill-accent.png"
+    },
+    {
+      "name": "filter-3-fill-active",
+      "file": "filter-3-fill-active.png",
+      "path": "/icons/all/filter-3-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/filter-3-fill-active.png"
+    },
+    {
+      "name": "filter-3-fill-default",
+      "file": "filter-3-fill-default.png",
+      "path": "/icons/all/filter-3-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/filter-3-fill-default.png"
+    },
+    {
+      "name": "filter-3-line-accent",
+      "file": "filter-3-line-accent.png",
+      "path": "/icons/all/filter-3-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/filter-3-line-accent.png"
+    },
+    {
+      "name": "filter-3-line-active",
+      "file": "filter-3-line-active.png",
+      "path": "/icons/all/filter-3-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/filter-3-line-active.png"
+    },
+    {
+      "name": "filter-3-line-default",
+      "file": "filter-3-line-default.png",
+      "path": "/icons/all/filter-3-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/filter-3-line-default.png"
+    },
+    {
+      "name": "filter-fill-accent",
+      "file": "filter-fill-accent.png",
+      "path": "/icons/all/filter-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/filter-fill-accent.png"
+    },
+    {
+      "name": "filter-fill-active",
+      "file": "filter-fill-active.png",
+      "path": "/icons/all/filter-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/filter-fill-active.png"
+    },
+    {
+      "name": "filter-fill-default",
+      "file": "filter-fill-default.png",
+      "path": "/icons/all/filter-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/filter-fill-default.png"
+    },
+    {
+      "name": "filter-line-accent",
+      "file": "filter-line-accent.png",
+      "path": "/icons/all/filter-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/filter-line-accent.png"
+    },
+    {
+      "name": "filter-line-active",
+      "file": "filter-line-active.png",
+      "path": "/icons/all/filter-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/filter-line-active.png"
+    },
+    {
+      "name": "filter-line-default",
+      "file": "filter-line-default.png",
+      "path": "/icons/all/filter-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/filter-line-default.png"
+    },
+    {
+      "name": "function-add-fill-accent",
+      "file": "function-add-fill-accent.png",
+      "path": "/icons/all/function-add-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/function-add-fill-accent.png"
+    },
+    {
+      "name": "function-add-fill-active",
+      "file": "function-add-fill-active.png",
+      "path": "/icons/all/function-add-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/function-add-fill-active.png"
+    },
+    {
+      "name": "function-add-fill-default",
+      "file": "function-add-fill-default.png",
+      "path": "/icons/all/function-add-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/function-add-fill-default.png"
+    },
+    {
+      "name": "function-add-line-accent",
+      "file": "function-add-line-accent.png",
+      "path": "/icons/all/function-add-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/function-add-line-accent.png"
+    },
+    {
+      "name": "function-add-line-active",
+      "file": "function-add-line-active.png",
+      "path": "/icons/all/function-add-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/function-add-line-active.png"
+    },
+    {
+      "name": "function-add-line-default",
+      "file": "function-add-line-default.png",
+      "path": "/icons/all/function-add-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/function-add-line-default.png"
+    },
+    {
+      "name": "gift-fill-accent",
+      "file": "gift-fill-accent.png",
+      "path": "/icons/all/gift-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/gift-fill-accent.png"
+    },
+    {
+      "name": "gift-fill-active",
+      "file": "gift-fill-active.png",
+      "path": "/icons/all/gift-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/gift-fill-active.png"
+    },
+    {
+      "name": "gift-fill-default",
+      "file": "gift-fill-default.png",
+      "path": "/icons/all/gift-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/gift-fill-default.png"
+    },
+    {
+      "name": "gift-line-accent",
+      "file": "gift-line-accent.png",
+      "path": "/icons/all/gift-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/gift-line-accent.png"
+    },
+    {
+      "name": "gift-line-active",
+      "file": "gift-line-active.png",
+      "path": "/icons/all/gift-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/gift-line-active.png"
+    },
+    {
+      "name": "gift-line-default",
+      "file": "gift-line-default.png",
+      "path": "/icons/all/gift-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/gift-line-default.png"
+    },
+    {
+      "name": "glasses-2-fill-accent",
+      "file": "glasses-2-fill-accent.png",
+      "path": "/icons/all/glasses-2-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/glasses-2-fill-accent.png"
+    },
+    {
+      "name": "glasses-2-fill-active",
+      "file": "glasses-2-fill-active.png",
+      "path": "/icons/all/glasses-2-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/glasses-2-fill-active.png"
+    },
+    {
+      "name": "glasses-2-fill-default",
+      "file": "glasses-2-fill-default.png",
+      "path": "/icons/all/glasses-2-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/glasses-2-fill-default.png"
+    },
+    {
+      "name": "glasses-2-line-accent",
+      "file": "glasses-2-line-accent.png",
+      "path": "/icons/all/glasses-2-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/glasses-2-line-accent.png"
+    },
+    {
+      "name": "glasses-2-line-active",
+      "file": "glasses-2-line-active.png",
+      "path": "/icons/all/glasses-2-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/glasses-2-line-active.png"
+    },
+    {
+      "name": "glasses-2-line-default",
+      "file": "glasses-2-line-default.png",
+      "path": "/icons/all/glasses-2-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/glasses-2-line-default.png"
+    },
+    {
+      "name": "glasses-fill-accent",
+      "file": "glasses-fill-accent.png",
+      "path": "/icons/all/glasses-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/glasses-fill-accent.png"
+    },
+    {
+      "name": "glasses-fill-active",
+      "file": "glasses-fill-active.png",
+      "path": "/icons/all/glasses-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/glasses-fill-active.png"
+    },
+    {
+      "name": "glasses-fill-default",
+      "file": "glasses-fill-default.png",
+      "path": "/icons/all/glasses-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/glasses-fill-default.png"
+    },
+    {
+      "name": "glasses-line-accent",
+      "file": "glasses-line-accent.png",
+      "path": "/icons/all/glasses-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/glasses-line-accent.png"
+    },
+    {
+      "name": "glasses-line-active",
+      "file": "glasses-line-active.png",
+      "path": "/icons/all/glasses-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/glasses-line-active.png"
+    },
+    {
+      "name": "glasses-line-default",
+      "file": "glasses-line-default.png",
+      "path": "/icons/all/glasses-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/glasses-line-default.png"
+    },
+    {
+      "name": "goggles-fill-accent",
+      "file": "goggles-fill-accent.png",
+      "path": "/icons/all/goggles-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/goggles-fill-accent.png"
+    },
+    {
+      "name": "goggles-fill-active",
+      "file": "goggles-fill-active.png",
+      "path": "/icons/all/goggles-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/goggles-fill-active.png"
+    },
+    {
+      "name": "goggles-fill-default",
+      "file": "goggles-fill-default.png",
+      "path": "/icons/all/goggles-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/goggles-fill-default.png"
+    },
+    {
+      "name": "goggles-line-accent",
+      "file": "goggles-line-accent.png",
+      "path": "/icons/all/goggles-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/goggles-line-accent.png"
+    },
+    {
+      "name": "goggles-line-active",
+      "file": "goggles-line-active.png",
+      "path": "/icons/all/goggles-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/goggles-line-active.png"
+    },
+    {
+      "name": "goggles-line-default",
+      "file": "goggles-line-default.png",
+      "path": "/icons/all/goggles-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/goggles-line-default.png"
+    },
+    {
+      "name": "guide-fill-accent",
+      "file": "guide-fill-accent.png",
+      "path": "/icons/all/guide-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/guide-fill-accent.png"
+    },
+    {
+      "name": "guide-fill-active",
+      "file": "guide-fill-active.png",
+      "path": "/icons/all/guide-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/guide-fill-active.png"
+    },
+    {
+      "name": "guide-fill-default",
+      "file": "guide-fill-default.png",
+      "path": "/icons/all/guide-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/guide-fill-default.png"
+    },
+    {
+      "name": "guide-line-accent",
+      "file": "guide-line-accent.png",
+      "path": "/icons/all/guide-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/guide-line-accent.png"
+    },
+    {
+      "name": "guide-line-active",
+      "file": "guide-line-active.png",
+      "path": "/icons/all/guide-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/guide-line-active.png"
+    },
+    {
+      "name": "guide-line-default",
+      "file": "guide-line-default.png",
+      "path": "/icons/all/guide-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/guide-line-default.png"
+    },
+    {
+      "name": "hand-heart-fill-accent",
+      "file": "hand-heart-fill-accent.png",
+      "path": "/icons/all/hand-heart-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/hand-heart-fill-accent.png"
+    },
+    {
+      "name": "hand-heart-fill-active",
+      "file": "hand-heart-fill-active.png",
+      "path": "/icons/all/hand-heart-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/hand-heart-fill-active.png"
+    },
+    {
+      "name": "hand-heart-fill-default",
+      "file": "hand-heart-fill-default.png",
+      "path": "/icons/all/hand-heart-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/hand-heart-fill-default.png"
+    },
+    {
+      "name": "hand-heart-line-accent",
+      "file": "hand-heart-line-accent.png",
+      "path": "/icons/all/hand-heart-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/hand-heart-line-accent.png"
+    },
+    {
+      "name": "hand-heart-line-active",
+      "file": "hand-heart-line-active.png",
+      "path": "/icons/all/hand-heart-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/hand-heart-line-active.png"
+    },
+    {
+      "name": "hand-heart-line-default",
+      "file": "hand-heart-line-default.png",
+      "path": "/icons/all/hand-heart-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/hand-heart-line-default.png"
+    },
+    {
+      "name": "heart-2-fill-accent",
+      "file": "heart-2-fill-accent.png",
+      "path": "/icons/all/heart-2-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/heart-2-fill-accent.png"
+    },
+    {
+      "name": "heart-2-fill-active",
+      "file": "heart-2-fill-active.png",
+      "path": "/icons/all/heart-2-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/heart-2-fill-active.png"
+    },
+    {
+      "name": "heart-2-fill-default",
+      "file": "heart-2-fill-default.png",
+      "path": "/icons/all/heart-2-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/heart-2-fill-default.png"
+    },
+    {
+      "name": "heart-2-line-accent",
+      "file": "heart-2-line-accent.png",
+      "path": "/icons/all/heart-2-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/heart-2-line-accent.png"
+    },
+    {
+      "name": "heart-2-line-active",
+      "file": "heart-2-line-active.png",
+      "path": "/icons/all/heart-2-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/heart-2-line-active.png"
+    },
+    {
+      "name": "heart-2-line-default",
+      "file": "heart-2-line-default.png",
+      "path": "/icons/all/heart-2-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/heart-2-line-default.png"
+    },
+    {
+      "name": "heart-accent",
+      "file": "heart-accent.png",
+      "path": "/icons/all/heart-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/heart-accent.png"
+    },
+    {
+      "name": "heart-active",
+      "file": "heart-active.png",
+      "path": "/icons/all/heart-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/heart-active.png"
+    },
+    {
+      "name": "heart-default",
+      "file": "heart-default.png",
+      "path": "/icons/all/heart-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/heart-default.png"
+    },
+    {
+      "name": "heart-fill-accent",
+      "file": "heart-fill-accent.png",
+      "path": "/icons/all/heart-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/heart-fill-accent.png"
+    },
+    {
+      "name": "heart-fill-active",
+      "file": "heart-fill-active.png",
+      "path": "/icons/all/heart-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/heart-fill-active.png"
+    },
+    {
+      "name": "heart-fill-default",
+      "file": "heart-fill-default.png",
+      "path": "/icons/all/heart-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/heart-fill-default.png"
+    },
+    {
+      "name": "home-6-fill-accent",
+      "file": "home-6-fill-accent.png",
+      "path": "/icons/all/home-6-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/home-6-fill-accent.png"
+    },
+    {
+      "name": "home-6-fill-active",
+      "file": "home-6-fill-active.png",
+      "path": "/icons/all/home-6-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/home-6-fill-active.png"
+    },
+    {
+      "name": "home-6-fill-default",
+      "file": "home-6-fill-default.png",
+      "path": "/icons/all/home-6-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/home-6-fill-default.png"
+    },
+    {
+      "name": "home-6-line-accent",
+      "file": "home-6-line-accent.png",
+      "path": "/icons/all/home-6-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/home-6-line-accent.png"
+    },
+    {
+      "name": "home-6-line-active",
+      "file": "home-6-line-active.png",
+      "path": "/icons/all/home-6-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/home-6-line-active.png"
+    },
+    {
+      "name": "home-6-line-default",
+      "file": "home-6-line-default.png",
+      "path": "/icons/all/home-6-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/home-6-line-default.png"
+    },
+    {
+      "name": "home-fill_colored-accent",
+      "file": "home-fill_colored-accent.png",
+      "path": "/icons/all/home-fill_colored-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/home-fill_colored-accent.png"
+    },
+    {
+      "name": "home-fill_colored-active",
+      "file": "home-fill_colored-active.png",
+      "path": "/icons/all/home-fill_colored-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/home-fill_colored-active.png"
+    },
+    {
+      "name": "home-fill_colored-default",
+      "file": "home-fill_colored-default.png",
+      "path": "/icons/all/home-fill_colored-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/home-fill_colored-default.png"
+    },
+    {
+      "name": "home-line_colored-accent",
+      "file": "home-line_colored-accent.png",
+      "path": "/icons/all/home-line_colored-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/home-line_colored-accent.png"
+    },
+    {
+      "name": "home-line_colored-active",
+      "file": "home-line_colored-active.png",
+      "path": "/icons/all/home-line_colored-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/home-line_colored-active.png"
+    },
+    {
+      "name": "home-line_colored-default",
+      "file": "home-line_colored-default.png",
+      "path": "/icons/all/home-line_colored-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/home-line_colored-default.png"
+    },
+    {
+      "name": "id-card-fill-accent",
+      "file": "id-card-fill-accent.png",
+      "path": "/icons/all/id-card-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/id-card-fill-accent.png"
+    },
+    {
+      "name": "id-card-fill-active",
+      "file": "id-card-fill-active.png",
+      "path": "/icons/all/id-card-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/id-card-fill-active.png"
+    },
+    {
+      "name": "id-card-fill-default",
+      "file": "id-card-fill-default.png",
+      "path": "/icons/all/id-card-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/id-card-fill-default.png"
+    },
+    {
+      "name": "id-card-line-accent",
+      "file": "id-card-line-accent.png",
+      "path": "/icons/all/id-card-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/id-card-line-accent.png"
+    },
+    {
+      "name": "id-card-line-active",
+      "file": "id-card-line-active.png",
+      "path": "/icons/all/id-card-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/id-card-line-active.png"
+    },
+    {
+      "name": "id-card-line-default",
+      "file": "id-card-line-default.png",
+      "path": "/icons/all/id-card-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/id-card-line-default.png"
+    },
+    {
+      "name": "image-accent",
+      "file": "image-accent.png",
+      "path": "/icons/all/image-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/image-accent.png"
+    },
+    {
+      "name": "image-active",
+      "file": "image-active.png",
+      "path": "/icons/all/image-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/image-active.png"
+    },
+    {
+      "name": "image-default",
+      "file": "image-default.png",
+      "path": "/icons/all/image-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/image-default.png"
+    },
+    {
+      "name": "image-fill-accent",
+      "file": "image-fill-accent.png",
+      "path": "/icons/all/image-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/image-fill-accent.png"
+    },
+    {
+      "name": "image-fill-active",
+      "file": "image-fill-active.png",
+      "path": "/icons/all/image-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/image-fill-active.png"
+    },
+    {
+      "name": "image-fill-default",
+      "file": "image-fill-default.png",
+      "path": "/icons/all/image-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/image-fill-default.png"
+    },
+    {
+      "name": "information-accent",
+      "file": "information-accent.png",
+      "path": "/icons/all/information-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/information-accent.png"
+    },
+    {
+      "name": "information-active",
+      "file": "information-active.png",
+      "path": "/icons/all/information-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/information-active.png"
+    },
+    {
+      "name": "information-default",
+      "file": "information-default.png",
+      "path": "/icons/all/information-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/information-default.png"
+    },
+    {
+      "name": "information-fill-accent",
+      "file": "information-fill-accent.png",
+      "path": "/icons/all/information-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/information-fill-accent.png"
+    },
+    {
+      "name": "information-fill-active",
+      "file": "information-fill-active.png",
+      "path": "/icons/all/information-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/information-fill-active.png"
+    },
+    {
+      "name": "information-fill-default",
+      "file": "information-fill-default.png",
+      "path": "/icons/all/information-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/information-fill-default.png"
+    },
+    {
+      "name": "information-line-accent",
+      "file": "information-line-accent.png",
+      "path": "/icons/all/information-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/information-line-accent.png"
+    },
+    {
+      "name": "information-line-active",
+      "file": "information-line-active.png",
+      "path": "/icons/all/information-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/information-line-active.png"
+    },
+    {
+      "name": "information-line-default",
+      "file": "information-line-default.png",
+      "path": "/icons/all/information-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/information-line-default.png"
+    },
+    {
+      "name": "list-accent",
+      "file": "list-accent.png",
+      "path": "/icons/all/list-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/list-accent.png"
+    },
+    {
+      "name": "list-active",
+      "file": "list-active.png",
+      "path": "/icons/all/list-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/list-active.png"
+    },
+    {
+      "name": "list-default",
+      "file": "list-default.png",
+      "path": "/icons/all/list-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/list-default.png"
+    },
+    {
+      "name": "mail-open-fill-accent",
+      "file": "mail-open-fill-accent.png",
+      "path": "/icons/all/mail-open-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/mail-open-fill-accent.png"
+    },
+    {
+      "name": "mail-open-fill-active",
+      "file": "mail-open-fill-active.png",
+      "path": "/icons/all/mail-open-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/mail-open-fill-active.png"
+    },
+    {
+      "name": "mail-open-fill-default",
+      "file": "mail-open-fill-default.png",
+      "path": "/icons/all/mail-open-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/mail-open-fill-default.png"
+    },
+    {
+      "name": "mail-open-line-accent",
+      "file": "mail-open-line-accent.png",
+      "path": "/icons/all/mail-open-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/mail-open-line-accent.png"
+    },
+    {
+      "name": "mail-open-line-active",
+      "file": "mail-open-line-active.png",
+      "path": "/icons/all/mail-open-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/mail-open-line-active.png"
+    },
+    {
+      "name": "mail-open-line-default",
+      "file": "mail-open-line-default.png",
+      "path": "/icons/all/mail-open-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/mail-open-line-default.png"
+    },
+    {
+      "name": "mail-send-fill-accent",
+      "file": "mail-send-fill-accent.png",
+      "path": "/icons/all/mail-send-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/mail-send-fill-accent.png"
+    },
+    {
+      "name": "mail-send-fill-active",
+      "file": "mail-send-fill-active.png",
+      "path": "/icons/all/mail-send-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/mail-send-fill-active.png"
+    },
+    {
+      "name": "mail-send-fill-default",
+      "file": "mail-send-fill-default.png",
+      "path": "/icons/all/mail-send-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/mail-send-fill-default.png"
+    },
+    {
+      "name": "mail-send-line-accent",
+      "file": "mail-send-line-accent.png",
+      "path": "/icons/all/mail-send-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/mail-send-line-accent.png"
+    },
+    {
+      "name": "mail-send-line-active",
+      "file": "mail-send-line-active.png",
+      "path": "/icons/all/mail-send-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/mail-send-line-active.png"
+    },
+    {
+      "name": "mail-send-line-default",
+      "file": "mail-send-line-default.png",
+      "path": "/icons/all/mail-send-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/mail-send-line-default.png"
+    },
+    {
+      "name": "mail-unread-fill-accent",
+      "file": "mail-unread-fill-accent.png",
+      "path": "/icons/all/mail-unread-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/mail-unread-fill-accent.png"
+    },
+    {
+      "name": "mail-unread-fill-active",
+      "file": "mail-unread-fill-active.png",
+      "path": "/icons/all/mail-unread-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/mail-unread-fill-active.png"
+    },
+    {
+      "name": "mail-unread-fill-default",
+      "file": "mail-unread-fill-default.png",
+      "path": "/icons/all/mail-unread-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/mail-unread-fill-default.png"
+    },
+    {
+      "name": "mail-unread-line-accent",
+      "file": "mail-unread-line-accent.png",
+      "path": "/icons/all/mail-unread-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/mail-unread-line-accent.png"
+    },
+    {
+      "name": "mail-unread-line-active",
+      "file": "mail-unread-line-active.png",
+      "path": "/icons/all/mail-unread-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/mail-unread-line-active.png"
+    },
+    {
+      "name": "mail-unread-line-default",
+      "file": "mail-unread-line-default.png",
+      "path": "/icons/all/mail-unread-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/mail-unread-line-default.png"
+    },
+    {
+      "name": "map-pin-fill-accent",
+      "file": "map-pin-fill-accent.png",
+      "path": "/icons/all/map-pin-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/map-pin-fill-accent.png"
+    },
+    {
+      "name": "map-pin-fill-active",
+      "file": "map-pin-fill-active.png",
+      "path": "/icons/all/map-pin-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/map-pin-fill-active.png"
+    },
+    {
+      "name": "map-pin-fill-default",
+      "file": "map-pin-fill-default.png",
+      "path": "/icons/all/map-pin-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/map-pin-fill-default.png"
+    },
+    {
+      "name": "map-pin-line-accent",
+      "file": "map-pin-line-accent.png",
+      "path": "/icons/all/map-pin-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/map-pin-line-accent.png"
+    },
+    {
+      "name": "map-pin-line-active",
+      "file": "map-pin-line-active.png",
+      "path": "/icons/all/map-pin-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/map-pin-line-active.png"
+    },
+    {
+      "name": "map-pin-line-default",
+      "file": "map-pin-line-default.png",
+      "path": "/icons/all/map-pin-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/map-pin-line-default.png"
+    },
+    {
+      "name": "medal-accent",
+      "file": "medal-accent.png",
+      "path": "/icons/all/medal-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/medal-accent.png"
+    },
+    {
+      "name": "medal-active",
+      "file": "medal-active.png",
+      "path": "/icons/all/medal-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/medal-active.png"
+    },
+    {
+      "name": "medal-default",
+      "file": "medal-default.png",
+      "path": "/icons/all/medal-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/medal-default.png"
+    },
+    {
+      "name": "medal-fill-accent",
+      "file": "medal-fill-accent.png",
+      "path": "/icons/all/medal-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/medal-fill-accent.png"
+    },
+    {
+      "name": "medal-fill-active",
+      "file": "medal-fill-active.png",
+      "path": "/icons/all/medal-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/medal-fill-active.png"
+    },
+    {
+      "name": "medal-fill-default",
+      "file": "medal-fill-default.png",
+      "path": "/icons/all/medal-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/medal-fill-default.png"
+    },
+    {
+      "name": "medal-line-accent",
+      "file": "medal-line-accent.png",
+      "path": "/icons/all/medal-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/medal-line-accent.png"
+    },
+    {
+      "name": "medal-line-active",
+      "file": "medal-line-active.png",
+      "path": "/icons/all/medal-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/medal-line-active.png"
+    },
+    {
+      "name": "medal-line-default",
+      "file": "medal-line-default.png",
+      "path": "/icons/all/medal-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/medal-line-default.png"
+    },
+    {
+      "name": "message-fill-accent",
+      "file": "message-fill-accent.png",
+      "path": "/icons/all/message-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/message-fill-accent.png"
+    },
+    {
+      "name": "message-fill-active",
+      "file": "message-fill-active.png",
+      "path": "/icons/all/message-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/message-fill-active.png"
+    },
+    {
+      "name": "message-fill-default",
+      "file": "message-fill-default.png",
+      "path": "/icons/all/message-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/message-fill-default.png"
+    },
+    {
+      "name": "message-line-accent",
+      "file": "message-line-accent.png",
+      "path": "/icons/all/message-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/message-line-accent.png"
+    },
+    {
+      "name": "message-line-active",
+      "file": "message-line-active.png",
+      "path": "/icons/all/message-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/message-line-active.png"
+    },
+    {
+      "name": "message-line-default",
+      "file": "message-line-default.png",
+      "path": "/icons/all/message-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/message-line-default.png"
+    },
+    {
+      "name": "more-2-fill-accent",
+      "file": "more-2-fill-accent.png",
+      "path": "/icons/all/more-2-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/more-2-fill-accent.png"
+    },
+    {
+      "name": "more-2-fill-active",
+      "file": "more-2-fill-active.png",
+      "path": "/icons/all/more-2-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/more-2-fill-active.png"
+    },
+    {
+      "name": "more-2-fill-default",
+      "file": "more-2-fill-default.png",
+      "path": "/icons/all/more-2-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/more-2-fill-default.png"
+    },
+    {
+      "name": "more-2-line-accent",
+      "file": "more-2-line-accent.png",
+      "path": "/icons/all/more-2-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/more-2-line-accent.png"
+    },
+    {
+      "name": "more-2-line-active",
+      "file": "more-2-line-active.png",
+      "path": "/icons/all/more-2-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/more-2-line-active.png"
+    },
+    {
+      "name": "more-2-line-default",
+      "file": "more-2-line-default.png",
+      "path": "/icons/all/more-2-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/more-2-line-default.png"
+    },
+    {
+      "name": "more-fill-accent",
+      "file": "more-fill-accent.png",
+      "path": "/icons/all/more-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/more-fill-accent.png"
+    },
+    {
+      "name": "more-fill-active",
+      "file": "more-fill-active.png",
+      "path": "/icons/all/more-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/more-fill-active.png"
+    },
+    {
+      "name": "more-fill-default",
+      "file": "more-fill-default.png",
+      "path": "/icons/all/more-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/more-fill-default.png"
+    },
+    {
+      "name": "more-line-accent",
+      "file": "more-line-accent.png",
+      "path": "/icons/all/more-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/more-line-accent.png"
+    },
+    {
+      "name": "more-line-active",
+      "file": "more-line-active.png",
+      "path": "/icons/all/more-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/more-line-active.png"
+    },
+    {
+      "name": "more-line-default",
+      "file": "more-line-default.png",
+      "path": "/icons/all/more-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/more-line-default.png"
+    },
+    {
+      "name": "notification-accent",
+      "file": "notification-accent.png",
+      "path": "/icons/all/notification-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/notification-accent.png"
+    },
+    {
+      "name": "notification-active",
+      "file": "notification-active.png",
+      "path": "/icons/all/notification-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/notification-active.png"
+    },
+    {
+      "name": "notification-default",
+      "file": "notification-default.png",
+      "path": "/icons/all/notification-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/notification-default.png"
+    },
+    {
+      "name": "notification-fill-accent",
+      "file": "notification-fill-accent.png",
+      "path": "/icons/all/notification-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/notification-fill-accent.png"
+    },
+    {
+      "name": "notification-fill-active",
+      "file": "notification-fill-active.png",
+      "path": "/icons/all/notification-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/notification-fill-active.png"
+    },
+    {
+      "name": "notification-fill-default",
+      "file": "notification-fill-default.png",
+      "path": "/icons/all/notification-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/notification-fill-default.png"
+    },
+    {
+      "name": "phone-accent",
+      "file": "phone-accent.png",
+      "path": "/icons/all/phone-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/phone-accent.png"
+    },
+    {
+      "name": "phone-active",
+      "file": "phone-active.png",
+      "path": "/icons/all/phone-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/phone-active.png"
+    },
+    {
+      "name": "phone-default",
+      "file": "phone-default.png",
+      "path": "/icons/all/phone-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/phone-default.png"
+    },
+    {
+      "name": "planet-fill-accent",
+      "file": "planet-fill-accent.png",
+      "path": "/icons/all/planet-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/planet-fill-accent.png"
+    },
+    {
+      "name": "planet-fill-active",
+      "file": "planet-fill-active.png",
+      "path": "/icons/all/planet-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/planet-fill-active.png"
+    },
+    {
+      "name": "planet-fill-default",
+      "file": "planet-fill-default.png",
+      "path": "/icons/all/planet-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/planet-fill-default.png"
+    },
+    {
+      "name": "planet-line-accent",
+      "file": "planet-line-accent.png",
+      "path": "/icons/all/planet-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/planet-line-accent.png"
+    },
+    {
+      "name": "planet-line-active",
+      "file": "planet-line-active.png",
+      "path": "/icons/all/planet-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/planet-line-active.png"
+    },
+    {
+      "name": "planet-line-default",
+      "file": "planet-line-default.png",
+      "path": "/icons/all/planet-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/planet-line-default.png"
+    },
+    {
+      "name": "profile-fill-accent",
+      "file": "profile-fill-accent.png",
+      "path": "/icons/all/profile-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/profile-fill-accent.png"
+    },
+    {
+      "name": "profile-fill-active",
+      "file": "profile-fill-active.png",
+      "path": "/icons/all/profile-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/profile-fill-active.png"
+    },
+    {
+      "name": "profile-fill-default",
+      "file": "profile-fill-default.png",
+      "path": "/icons/all/profile-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/profile-fill-default.png"
+    },
+    {
+      "name": "profile-line-accent",
+      "file": "profile-line-accent.png",
+      "path": "/icons/all/profile-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/profile-line-accent.png"
+    },
+    {
+      "name": "profile-line-active",
+      "file": "profile-line-active.png",
+      "path": "/icons/all/profile-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/profile-line-active.png"
+    },
+    {
+      "name": "profile-line-default",
+      "file": "profile-line-default.png",
+      "path": "/icons/all/profile-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/profile-line-default.png"
+    },
+    {
+      "name": "progress-1-fill-accent",
+      "file": "progress-1-fill-accent.png",
+      "path": "/icons/all/progress-1-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-1-fill-accent.png"
+    },
+    {
+      "name": "progress-1-fill-active",
+      "file": "progress-1-fill-active.png",
+      "path": "/icons/all/progress-1-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-1-fill-active.png"
+    },
+    {
+      "name": "progress-1-fill-default",
+      "file": "progress-1-fill-default.png",
+      "path": "/icons/all/progress-1-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-1-fill-default.png"
+    },
+    {
+      "name": "progress-1-line-accent",
+      "file": "progress-1-line-accent.png",
+      "path": "/icons/all/progress-1-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-1-line-accent.png"
+    },
+    {
+      "name": "progress-1-line-active",
+      "file": "progress-1-line-active.png",
+      "path": "/icons/all/progress-1-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-1-line-active.png"
+    },
+    {
+      "name": "progress-1-line-default",
+      "file": "progress-1-line-default.png",
+      "path": "/icons/all/progress-1-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-1-line-default.png"
+    },
+    {
+      "name": "progress-2-fill-accent",
+      "file": "progress-2-fill-accent.png",
+      "path": "/icons/all/progress-2-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-2-fill-accent.png"
+    },
+    {
+      "name": "progress-2-fill-active",
+      "file": "progress-2-fill-active.png",
+      "path": "/icons/all/progress-2-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-2-fill-active.png"
+    },
+    {
+      "name": "progress-2-fill-default",
+      "file": "progress-2-fill-default.png",
+      "path": "/icons/all/progress-2-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-2-fill-default.png"
+    },
+    {
+      "name": "progress-2-line-accent",
+      "file": "progress-2-line-accent.png",
+      "path": "/icons/all/progress-2-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-2-line-accent.png"
+    },
+    {
+      "name": "progress-2-line-active",
+      "file": "progress-2-line-active.png",
+      "path": "/icons/all/progress-2-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-2-line-active.png"
+    },
+    {
+      "name": "progress-2-line-default",
+      "file": "progress-2-line-default.png",
+      "path": "/icons/all/progress-2-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-2-line-default.png"
+    },
+    {
+      "name": "progress-3-fill-accent",
+      "file": "progress-3-fill-accent.png",
+      "path": "/icons/all/progress-3-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-3-fill-accent.png"
+    },
+    {
+      "name": "progress-3-fill-active",
+      "file": "progress-3-fill-active.png",
+      "path": "/icons/all/progress-3-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-3-fill-active.png"
+    },
+    {
+      "name": "progress-3-fill-default",
+      "file": "progress-3-fill-default.png",
+      "path": "/icons/all/progress-3-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-3-fill-default.png"
+    },
+    {
+      "name": "progress-3-line-accent",
+      "file": "progress-3-line-accent.png",
+      "path": "/icons/all/progress-3-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-3-line-accent.png"
+    },
+    {
+      "name": "progress-3-line-active",
+      "file": "progress-3-line-active.png",
+      "path": "/icons/all/progress-3-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-3-line-active.png"
+    },
+    {
+      "name": "progress-3-line-default",
+      "file": "progress-3-line-default.png",
+      "path": "/icons/all/progress-3-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-3-line-default.png"
+    },
+    {
+      "name": "progress-4-fill-accent",
+      "file": "progress-4-fill-accent.png",
+      "path": "/icons/all/progress-4-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-4-fill-accent.png"
+    },
+    {
+      "name": "progress-4-fill-active",
+      "file": "progress-4-fill-active.png",
+      "path": "/icons/all/progress-4-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-4-fill-active.png"
+    },
+    {
+      "name": "progress-4-fill-default",
+      "file": "progress-4-fill-default.png",
+      "path": "/icons/all/progress-4-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-4-fill-default.png"
+    },
+    {
+      "name": "progress-4-line-accent",
+      "file": "progress-4-line-accent.png",
+      "path": "/icons/all/progress-4-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-4-line-accent.png"
+    },
+    {
+      "name": "progress-4-line-active",
+      "file": "progress-4-line-active.png",
+      "path": "/icons/all/progress-4-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-4-line-active.png"
+    },
+    {
+      "name": "progress-4-line-default",
+      "file": "progress-4-line-default.png",
+      "path": "/icons/all/progress-4-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-4-line-default.png"
+    },
+    {
+      "name": "progress-5-fill-accent",
+      "file": "progress-5-fill-accent.png",
+      "path": "/icons/all/progress-5-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-5-fill-accent.png"
+    },
+    {
+      "name": "progress-5-fill-active",
+      "file": "progress-5-fill-active.png",
+      "path": "/icons/all/progress-5-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-5-fill-active.png"
+    },
+    {
+      "name": "progress-5-fill-default",
+      "file": "progress-5-fill-default.png",
+      "path": "/icons/all/progress-5-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-5-fill-default.png"
+    },
+    {
+      "name": "progress-5-line-accent",
+      "file": "progress-5-line-accent.png",
+      "path": "/icons/all/progress-5-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-5-line-accent.png"
+    },
+    {
+      "name": "progress-5-line-active",
+      "file": "progress-5-line-active.png",
+      "path": "/icons/all/progress-5-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-5-line-active.png"
+    },
+    {
+      "name": "progress-5-line-default",
+      "file": "progress-5-line-default.png",
+      "path": "/icons/all/progress-5-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-5-line-default.png"
+    },
+    {
+      "name": "progress-6-fill-accent",
+      "file": "progress-6-fill-accent.png",
+      "path": "/icons/all/progress-6-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-6-fill-accent.png"
+    },
+    {
+      "name": "progress-6-fill-active",
+      "file": "progress-6-fill-active.png",
+      "path": "/icons/all/progress-6-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-6-fill-active.png"
+    },
+    {
+      "name": "progress-6-fill-default",
+      "file": "progress-6-fill-default.png",
+      "path": "/icons/all/progress-6-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-6-fill-default.png"
+    },
+    {
+      "name": "progress-6-line-accent",
+      "file": "progress-6-line-accent.png",
+      "path": "/icons/all/progress-6-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-6-line-accent.png"
+    },
+    {
+      "name": "progress-6-line-active",
+      "file": "progress-6-line-active.png",
+      "path": "/icons/all/progress-6-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-6-line-active.png"
+    },
+    {
+      "name": "progress-6-line-default",
+      "file": "progress-6-line-default.png",
+      "path": "/icons/all/progress-6-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-6-line-default.png"
+    },
+    {
+      "name": "progress-7-fill-accent",
+      "file": "progress-7-fill-accent.png",
+      "path": "/icons/all/progress-7-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-7-fill-accent.png"
+    },
+    {
+      "name": "progress-7-fill-active",
+      "file": "progress-7-fill-active.png",
+      "path": "/icons/all/progress-7-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-7-fill-active.png"
+    },
+    {
+      "name": "progress-7-fill-default",
+      "file": "progress-7-fill-default.png",
+      "path": "/icons/all/progress-7-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-7-fill-default.png"
+    },
+    {
+      "name": "progress-7-line-accent",
+      "file": "progress-7-line-accent.png",
+      "path": "/icons/all/progress-7-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-7-line-accent.png"
+    },
+    {
+      "name": "progress-7-line-active",
+      "file": "progress-7-line-active.png",
+      "path": "/icons/all/progress-7-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-7-line-active.png"
+    },
+    {
+      "name": "progress-7-line-default",
+      "file": "progress-7-line-default.png",
+      "path": "/icons/all/progress-7-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-7-line-default.png"
+    },
+    {
+      "name": "progress-8-fill-accent",
+      "file": "progress-8-fill-accent.png",
+      "path": "/icons/all/progress-8-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-8-fill-accent.png"
+    },
+    {
+      "name": "progress-8-fill-active",
+      "file": "progress-8-fill-active.png",
+      "path": "/icons/all/progress-8-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-8-fill-active.png"
+    },
+    {
+      "name": "progress-8-fill-default",
+      "file": "progress-8-fill-default.png",
+      "path": "/icons/all/progress-8-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-8-fill-default.png"
+    },
+    {
+      "name": "progress-8-line-accent",
+      "file": "progress-8-line-accent.png",
+      "path": "/icons/all/progress-8-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-8-line-accent.png"
+    },
+    {
+      "name": "progress-8-line-active",
+      "file": "progress-8-line-active.png",
+      "path": "/icons/all/progress-8-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-8-line-active.png"
+    },
+    {
+      "name": "progress-8-line-default",
+      "file": "progress-8-line-default.png",
+      "path": "/icons/all/progress-8-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/progress-8-line-default.png"
+    },
+    {
+      "name": "qr-code-accent",
+      "file": "qr-code-accent.png",
+      "path": "/icons/all/qr-code-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/qr-code-accent.png"
+    },
+    {
+      "name": "qr-code-active",
+      "file": "qr-code-active.png",
+      "path": "/icons/all/qr-code-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/qr-code-active.png"
+    },
+    {
+      "name": "qr-code-default",
+      "file": "qr-code-default.png",
+      "path": "/icons/all/qr-code-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/qr-code-default.png"
+    },
+    {
+      "name": "qr-code-fill-accent",
+      "file": "qr-code-fill-accent.png",
+      "path": "/icons/all/qr-code-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/qr-code-fill-accent.png"
+    },
+    {
+      "name": "qr-code-fill-active",
+      "file": "qr-code-fill-active.png",
+      "path": "/icons/all/qr-code-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/qr-code-fill-active.png"
+    },
+    {
+      "name": "qr-code-fill-default",
+      "file": "qr-code-fill-default.png",
+      "path": "/icons/all/qr-code-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/qr-code-fill-default.png"
+    },
+    {
+      "name": "question-accent",
+      "file": "question-accent.png",
+      "path": "/icons/all/question-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/question-accent.png"
+    },
+    {
+      "name": "question-active",
+      "file": "question-active.png",
+      "path": "/icons/all/question-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/question-active.png"
+    },
+    {
+      "name": "question-answer-accent",
+      "file": "question-answer-accent.png",
+      "path": "/icons/all/question-answer-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/question-answer-accent.png"
+    },
+    {
+      "name": "question-answer-active",
+      "file": "question-answer-active.png",
+      "path": "/icons/all/question-answer-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/question-answer-active.png"
+    },
+    {
+      "name": "question-answer-default",
+      "file": "question-answer-default.png",
+      "path": "/icons/all/question-answer-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/question-answer-default.png"
+    },
+    {
+      "name": "question-default",
+      "file": "question-default.png",
+      "path": "/icons/all/question-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/question-default.png"
+    },
+    {
+      "name": "refund-fill-accent",
+      "file": "refund-fill-accent.png",
+      "path": "/icons/all/refund-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/refund-fill-accent.png"
+    },
+    {
+      "name": "refund-fill-active",
+      "file": "refund-fill-active.png",
+      "path": "/icons/all/refund-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/refund-fill-active.png"
+    },
+    {
+      "name": "refund-fill-default",
+      "file": "refund-fill-default.png",
+      "path": "/icons/all/refund-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/refund-fill-default.png"
+    },
+    {
+      "name": "refund-line-accent",
+      "file": "refund-line-accent.png",
+      "path": "/icons/all/refund-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/refund-line-accent.png"
+    },
+    {
+      "name": "refund-line-active",
+      "file": "refund-line-active.png",
+      "path": "/icons/all/refund-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/refund-line-active.png"
+    },
+    {
+      "name": "refund-line-default",
+      "file": "refund-line-default.png",
+      "path": "/icons/all/refund-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/refund-line-default.png"
+    },
+    {
+      "name": "registered-fill-accent",
+      "file": "registered-fill-accent.png",
+      "path": "/icons/all/registered-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/registered-fill-accent.png"
+    },
+    {
+      "name": "registered-fill-active",
+      "file": "registered-fill-active.png",
+      "path": "/icons/all/registered-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/registered-fill-active.png"
+    },
+    {
+      "name": "registered-fill-default",
+      "file": "registered-fill-default.png",
+      "path": "/icons/all/registered-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/registered-fill-default.png"
+    },
+    {
+      "name": "registered-line-accent",
+      "file": "registered-line-accent.png",
+      "path": "/icons/all/registered-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/registered-line-accent.png"
+    },
+    {
+      "name": "registered-line-active",
+      "file": "registered-line-active.png",
+      "path": "/icons/all/registered-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/registered-line-active.png"
+    },
+    {
+      "name": "registered-line-default",
+      "file": "registered-line-default.png",
+      "path": "/icons/all/registered-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/registered-line-default.png"
+    },
+    {
+      "name": "road-map-fill-accent",
+      "file": "road-map-fill-accent.png",
+      "path": "/icons/all/road-map-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/road-map-fill-accent.png"
+    },
+    {
+      "name": "road-map-fill-active",
+      "file": "road-map-fill-active.png",
+      "path": "/icons/all/road-map-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/road-map-fill-active.png"
+    },
+    {
+      "name": "road-map-fill-default",
+      "file": "road-map-fill-default.png",
+      "path": "/icons/all/road-map-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/road-map-fill-default.png"
+    },
+    {
+      "name": "road-map-line-accent",
+      "file": "road-map-line-accent.png",
+      "path": "/icons/all/road-map-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/road-map-line-accent.png"
+    },
+    {
+      "name": "road-map-line-active",
+      "file": "road-map-line-active.png",
+      "path": "/icons/all/road-map-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/road-map-line-active.png"
+    },
+    {
+      "name": "road-map-line-default",
+      "file": "road-map-line-default.png",
+      "path": "/icons/all/road-map-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/road-map-line-default.png"
+    },
+    {
+      "name": "scales-accent",
+      "file": "scales-accent.png",
+      "path": "/icons/all/scales-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/scales-accent.png"
+    },
+    {
+      "name": "scales-active",
+      "file": "scales-active.png",
+      "path": "/icons/all/scales-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/scales-active.png"
+    },
+    {
+      "name": "scales-default",
+      "file": "scales-default.png",
+      "path": "/icons/all/scales-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/scales-default.png"
+    },
+    {
+      "name": "scan-accent",
+      "file": "scan-accent.png",
+      "path": "/icons/all/scan-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/scan-accent.png"
+    },
+    {
+      "name": "scan-active",
+      "file": "scan-active.png",
+      "path": "/icons/all/scan-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/scan-active.png"
+    },
+    {
+      "name": "scan-default",
+      "file": "scan-default.png",
+      "path": "/icons/all/scan-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/scan-default.png"
+    },
+    {
+      "name": "search-accent",
+      "file": "search-accent.png",
+      "path": "/icons/all/search-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/search-accent.png"
+    },
+    {
+      "name": "search-active",
+      "file": "search-active.png",
+      "path": "/icons/all/search-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/search-active.png"
+    },
+    {
+      "name": "search-default",
+      "file": "search-default.png",
+      "path": "/icons/all/search-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/search-default.png"
+    },
+    {
+      "name": "secure-payment-fill-accent",
+      "file": "secure-payment-fill-accent.png",
+      "path": "/icons/all/secure-payment-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/secure-payment-fill-accent.png"
+    },
+    {
+      "name": "secure-payment-fill-active",
+      "file": "secure-payment-fill-active.png",
+      "path": "/icons/all/secure-payment-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/secure-payment-fill-active.png"
+    },
+    {
+      "name": "secure-payment-fill-default",
+      "file": "secure-payment-fill-default.png",
+      "path": "/icons/all/secure-payment-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/secure-payment-fill-default.png"
+    },
+    {
+      "name": "secure-payment-line-accent",
+      "file": "secure-payment-line-accent.png",
+      "path": "/icons/all/secure-payment-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/secure-payment-line-accent.png"
+    },
+    {
+      "name": "secure-payment-line-active",
+      "file": "secure-payment-line-active.png",
+      "path": "/icons/all/secure-payment-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/secure-payment-line-active.png"
+    },
+    {
+      "name": "secure-payment-line-default",
+      "file": "secure-payment-line-default.png",
+      "path": "/icons/all/secure-payment-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/secure-payment-line-default.png"
+    },
+    {
+      "name": "settings-accent",
+      "file": "settings-accent.png",
+      "path": "/icons/all/settings-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/settings-accent.png"
+    },
+    {
+      "name": "settings-active",
+      "file": "settings-active.png",
+      "path": "/icons/all/settings-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/settings-active.png"
+    },
+    {
+      "name": "settings-default",
+      "file": "settings-default.png",
+      "path": "/icons/all/settings-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/settings-default.png"
+    },
+    {
+      "name": "shake-hands-fill-accent",
+      "file": "shake-hands-fill-accent.png",
+      "path": "/icons/all/shake-hands-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/shake-hands-fill-accent.png"
+    },
+    {
+      "name": "shake-hands-fill-active",
+      "file": "shake-hands-fill-active.png",
+      "path": "/icons/all/shake-hands-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/shake-hands-fill-active.png"
+    },
+    {
+      "name": "shake-hands-fill-default",
+      "file": "shake-hands-fill-default.png",
+      "path": "/icons/all/shake-hands-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/shake-hands-fill-default.png"
+    },
+    {
+      "name": "shake-hands-line-accent",
+      "file": "shake-hands-line-accent.png",
+      "path": "/icons/all/shake-hands-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/shake-hands-line-accent.png"
+    },
+    {
+      "name": "shake-hands-line-active",
+      "file": "shake-hands-line-active.png",
+      "path": "/icons/all/shake-hands-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/shake-hands-line-active.png"
+    },
+    {
+      "name": "shake-hands-line-default",
+      "file": "shake-hands-line-default.png",
+      "path": "/icons/all/shake-hands-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/shake-hands-line-default.png"
+    },
+    {
+      "name": "share-accent",
+      "file": "share-accent.png",
+      "path": "/icons/all/share-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/share-accent.png"
+    },
+    {
+      "name": "share-active",
+      "file": "share-active.png",
+      "path": "/icons/all/share-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/share-active.png"
+    },
+    {
+      "name": "share-circle-fill-accent",
+      "file": "share-circle-fill-accent.png",
+      "path": "/icons/all/share-circle-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/share-circle-fill-accent.png"
+    },
+    {
+      "name": "share-circle-fill-active",
+      "file": "share-circle-fill-active.png",
+      "path": "/icons/all/share-circle-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/share-circle-fill-active.png"
+    },
+    {
+      "name": "share-circle-fill-default",
+      "file": "share-circle-fill-default.png",
+      "path": "/icons/all/share-circle-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/share-circle-fill-default.png"
+    },
+    {
+      "name": "share-circle-line-accent",
+      "file": "share-circle-line-accent.png",
+      "path": "/icons/all/share-circle-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/share-circle-line-accent.png"
+    },
+    {
+      "name": "share-circle-line-active",
+      "file": "share-circle-line-active.png",
+      "path": "/icons/all/share-circle-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/share-circle-line-active.png"
+    },
+    {
+      "name": "share-circle-line-default",
+      "file": "share-circle-line-default.png",
+      "path": "/icons/all/share-circle-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/share-circle-line-default.png"
+    },
+    {
+      "name": "share-default",
+      "file": "share-default.png",
+      "path": "/icons/all/share-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/share-default.png"
+    },
+    {
+      "name": "share-fill-accent",
+      "file": "share-fill-accent.png",
+      "path": "/icons/all/share-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/share-fill-accent.png"
+    },
+    {
+      "name": "share-fill-active",
+      "file": "share-fill-active.png",
+      "path": "/icons/all/share-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/share-fill-active.png"
+    },
+    {
+      "name": "share-fill-default",
+      "file": "share-fill-default.png",
+      "path": "/icons/all/share-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/share-fill-default.png"
+    },
+    {
+      "name": "shield-check-accent",
+      "file": "shield-check-accent.png",
+      "path": "/icons/all/shield-check-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/shield-check-accent.png"
+    },
+    {
+      "name": "shield-check-active",
+      "file": "shield-check-active.png",
+      "path": "/icons/all/shield-check-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/shield-check-active.png"
+    },
+    {
+      "name": "shield-check-default",
+      "file": "shield-check-default.png",
+      "path": "/icons/all/shield-check-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/shield-check-default.png"
+    },
+    {
+      "name": "shopping-bag-4-fill-accent",
+      "file": "shopping-bag-4-fill-accent.png",
+      "path": "/icons/all/shopping-bag-4-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/shopping-bag-4-fill-accent.png"
+    },
+    {
+      "name": "shopping-bag-4-fill-active",
+      "file": "shopping-bag-4-fill-active.png",
+      "path": "/icons/all/shopping-bag-4-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/shopping-bag-4-fill-active.png"
+    },
+    {
+      "name": "shopping-bag-4-fill-default",
+      "file": "shopping-bag-4-fill-default.png",
+      "path": "/icons/all/shopping-bag-4-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/shopping-bag-4-fill-default.png"
+    },
+    {
+      "name": "shopping-bag-4-line-accent",
+      "file": "shopping-bag-4-line-accent.png",
+      "path": "/icons/all/shopping-bag-4-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/shopping-bag-4-line-accent.png"
+    },
+    {
+      "name": "shopping-bag-4-line-active",
+      "file": "shopping-bag-4-line-active.png",
+      "path": "/icons/all/shopping-bag-4-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/shopping-bag-4-line-active.png"
+    },
+    {
+      "name": "shopping-bag-4-line-default",
+      "file": "shopping-bag-4-line-default.png",
+      "path": "/icons/all/shopping-bag-4-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/shopping-bag-4-line-default.png"
+    },
+    {
+      "name": "sort-asc-accent",
+      "file": "sort-asc-accent.png",
+      "path": "/icons/all/sort-asc-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/sort-asc-accent.png"
+    },
+    {
+      "name": "sort-asc-active",
+      "file": "sort-asc-active.png",
+      "path": "/icons/all/sort-asc-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/sort-asc-active.png"
+    },
+    {
+      "name": "sort-asc-default",
+      "file": "sort-asc-default.png",
+      "path": "/icons/all/sort-asc-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/sort-asc-default.png"
+    },
+    {
+      "name": "sort-desc-accent",
+      "file": "sort-desc-accent.png",
+      "path": "/icons/all/sort-desc-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/sort-desc-accent.png"
+    },
+    {
+      "name": "sort-desc-active",
+      "file": "sort-desc-active.png",
+      "path": "/icons/all/sort-desc-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/sort-desc-active.png"
+    },
+    {
+      "name": "sort-desc-default",
+      "file": "sort-desc-default.png",
+      "path": "/icons/all/sort-desc-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/sort-desc-default.png"
+    },
+    {
+      "name": "sparkling-2-fill-accent",
+      "file": "sparkling-2-fill-accent.png",
+      "path": "/icons/all/sparkling-2-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/sparkling-2-fill-accent.png"
+    },
+    {
+      "name": "sparkling-2-fill-active",
+      "file": "sparkling-2-fill-active.png",
+      "path": "/icons/all/sparkling-2-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/sparkling-2-fill-active.png"
+    },
+    {
+      "name": "sparkling-2-fill-default",
+      "file": "sparkling-2-fill-default.png",
+      "path": "/icons/all/sparkling-2-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/sparkling-2-fill-default.png"
+    },
+    {
+      "name": "sparkling-2-line-accent",
+      "file": "sparkling-2-line-accent.png",
+      "path": "/icons/all/sparkling-2-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/sparkling-2-line-accent.png"
+    },
+    {
+      "name": "sparkling-2-line-active",
+      "file": "sparkling-2-line-active.png",
+      "path": "/icons/all/sparkling-2-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/sparkling-2-line-active.png"
+    },
+    {
+      "name": "sparkling-2-line-default",
+      "file": "sparkling-2-line-default.png",
+      "path": "/icons/all/sparkling-2-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/sparkling-2-line-default.png"
+    },
+    {
+      "name": "sparkling-fill-accent",
+      "file": "sparkling-fill-accent.png",
+      "path": "/icons/all/sparkling-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/sparkling-fill-accent.png"
+    },
+    {
+      "name": "sparkling-fill-active",
+      "file": "sparkling-fill-active.png",
+      "path": "/icons/all/sparkling-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/sparkling-fill-active.png"
+    },
+    {
+      "name": "sparkling-fill-default",
+      "file": "sparkling-fill-default.png",
+      "path": "/icons/all/sparkling-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/sparkling-fill-default.png"
+    },
+    {
+      "name": "sparkling-line-accent",
+      "file": "sparkling-line-accent.png",
+      "path": "/icons/all/sparkling-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/sparkling-line-accent.png"
+    },
+    {
+      "name": "sparkling-line-active",
+      "file": "sparkling-line-active.png",
+      "path": "/icons/all/sparkling-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/sparkling-line-active.png"
+    },
+    {
+      "name": "sparkling-line-default",
+      "file": "sparkling-line-default.png",
+      "path": "/icons/all/sparkling-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/sparkling-line-default.png"
+    },
+    {
+      "name": "star-accent",
+      "file": "star-accent.png",
+      "path": "/icons/all/star-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/star-accent.png"
+    },
+    {
+      "name": "star-active",
+      "file": "star-active.png",
+      "path": "/icons/all/star-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/star-active.png"
+    },
+    {
+      "name": "star-default",
+      "file": "star-default.png",
+      "path": "/icons/all/star-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/star-default.png"
+    },
+    {
+      "name": "star-fill-accent",
+      "file": "star-fill-accent.png",
+      "path": "/icons/all/star-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/star-fill-accent.png"
+    },
+    {
+      "name": "star-fill-active",
+      "file": "star-fill-active.png",
+      "path": "/icons/all/star-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/star-fill-active.png"
+    },
+    {
+      "name": "star-fill-default",
+      "file": "star-fill-default.png",
+      "path": "/icons/all/star-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/star-fill-default.png"
+    },
+    {
+      "name": "star-half-fill-accent",
+      "file": "star-half-fill-accent.png",
+      "path": "/icons/all/star-half-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/star-half-fill-accent.png"
+    },
+    {
+      "name": "star-half-fill-active",
+      "file": "star-half-fill-active.png",
+      "path": "/icons/all/star-half-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/star-half-fill-active.png"
+    },
+    {
+      "name": "star-half-fill-default",
+      "file": "star-half-fill-default.png",
+      "path": "/icons/all/star-half-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/star-half-fill-default.png"
+    },
+    {
+      "name": "star-half-line-accent",
+      "file": "star-half-line-accent.png",
+      "path": "/icons/all/star-half-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/star-half-line-accent.png"
+    },
+    {
+      "name": "star-half-line-active",
+      "file": "star-half-line-active.png",
+      "path": "/icons/all/star-half-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/star-half-line-active.png"
+    },
+    {
+      "name": "star-half-line-default",
+      "file": "star-half-line-default.png",
+      "path": "/icons/all/star-half-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/star-half-line-default.png"
+    },
+    {
+      "name": "star-half-s-fill-accent",
+      "file": "star-half-s-fill-accent.png",
+      "path": "/icons/all/star-half-s-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/star-half-s-fill-accent.png"
+    },
+    {
+      "name": "star-half-s-fill-active",
+      "file": "star-half-s-fill-active.png",
+      "path": "/icons/all/star-half-s-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/star-half-s-fill-active.png"
+    },
+    {
+      "name": "star-half-s-fill-default",
+      "file": "star-half-s-fill-default.png",
+      "path": "/icons/all/star-half-s-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/star-half-s-fill-default.png"
+    },
+    {
+      "name": "star-half-s-line-accent",
+      "file": "star-half-s-line-accent.png",
+      "path": "/icons/all/star-half-s-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/star-half-s-line-accent.png"
+    },
+    {
+      "name": "star-half-s-line-active",
+      "file": "star-half-s-line-active.png",
+      "path": "/icons/all/star-half-s-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/star-half-s-line-active.png"
+    },
+    {
+      "name": "star-half-s-line-default",
+      "file": "star-half-s-line-default.png",
+      "path": "/icons/all/star-half-s-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/star-half-s-line-default.png"
+    },
+    {
+      "name": "star-s-fill-accent",
+      "file": "star-s-fill-accent.png",
+      "path": "/icons/all/star-s-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/star-s-fill-accent.png"
+    },
+    {
+      "name": "star-s-fill-active",
+      "file": "star-s-fill-active.png",
+      "path": "/icons/all/star-s-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/star-s-fill-active.png"
+    },
+    {
+      "name": "star-s-fill-default",
+      "file": "star-s-fill-default.png",
+      "path": "/icons/all/star-s-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/star-s-fill-default.png"
+    },
+    {
+      "name": "star-s-line-accent",
+      "file": "star-s-line-accent.png",
+      "path": "/icons/all/star-s-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/star-s-line-accent.png"
+    },
+    {
+      "name": "star-s-line-active",
+      "file": "star-s-line-active.png",
+      "path": "/icons/all/star-s-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/star-s-line-active.png"
+    },
+    {
+      "name": "star-s-line-default",
+      "file": "star-s-line-default.png",
+      "path": "/icons/all/star-s-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/star-s-line-default.png"
+    },
+    {
+      "name": "subtract-accent",
+      "file": "subtract-accent.png",
+      "path": "/icons/all/subtract-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/subtract-accent.png"
+    },
+    {
+      "name": "subtract-active",
+      "file": "subtract-active.png",
+      "path": "/icons/all/subtract-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/subtract-active.png"
+    },
+    {
+      "name": "subtract-default",
+      "file": "subtract-default.png",
+      "path": "/icons/all/subtract-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/subtract-default.png"
+    },
+    {
+      "name": "thumb-down-fill-accent",
+      "file": "thumb-down-fill-accent.png",
+      "path": "/icons/all/thumb-down-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/thumb-down-fill-accent.png"
+    },
+    {
+      "name": "thumb-down-fill-active",
+      "file": "thumb-down-fill-active.png",
+      "path": "/icons/all/thumb-down-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/thumb-down-fill-active.png"
+    },
+    {
+      "name": "thumb-down-fill-default",
+      "file": "thumb-down-fill-default.png",
+      "path": "/icons/all/thumb-down-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/thumb-down-fill-default.png"
+    },
+    {
+      "name": "thumb-down-line-accent",
+      "file": "thumb-down-line-accent.png",
+      "path": "/icons/all/thumb-down-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/thumb-down-line-accent.png"
+    },
+    {
+      "name": "thumb-down-line-active",
+      "file": "thumb-down-line-active.png",
+      "path": "/icons/all/thumb-down-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/thumb-down-line-active.png"
+    },
+    {
+      "name": "thumb-down-line-default",
+      "file": "thumb-down-line-default.png",
+      "path": "/icons/all/thumb-down-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/thumb-down-line-default.png"
+    },
+    {
+      "name": "thumb-up-fill-accent",
+      "file": "thumb-up-fill-accent.png",
+      "path": "/icons/all/thumb-up-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/thumb-up-fill-accent.png"
+    },
+    {
+      "name": "thumb-up-fill-active",
+      "file": "thumb-up-fill-active.png",
+      "path": "/icons/all/thumb-up-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/thumb-up-fill-active.png"
+    },
+    {
+      "name": "thumb-up-fill-default",
+      "file": "thumb-up-fill-default.png",
+      "path": "/icons/all/thumb-up-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/thumb-up-fill-default.png"
+    },
+    {
+      "name": "thumb-up-line-accent",
+      "file": "thumb-up-line-accent.png",
+      "path": "/icons/all/thumb-up-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/thumb-up-line-accent.png"
+    },
+    {
+      "name": "thumb-up-line-active",
+      "file": "thumb-up-line-active.png",
+      "path": "/icons/all/thumb-up-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/thumb-up-line-active.png"
+    },
+    {
+      "name": "thumb-up-line-default",
+      "file": "thumb-up-line-default.png",
+      "path": "/icons/all/thumb-up-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/thumb-up-line-default.png"
+    },
+    {
+      "name": "time-accent",
+      "file": "time-accent.png",
+      "path": "/icons/all/time-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/time-accent.png"
+    },
+    {
+      "name": "time-active",
+      "file": "time-active.png",
+      "path": "/icons/all/time-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/time-active.png"
+    },
+    {
+      "name": "time-default",
+      "file": "time-default.png",
+      "path": "/icons/all/time-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/time-default.png"
+    },
+    {
+      "name": "toggle-fill-accent",
+      "file": "toggle-fill-accent.png",
+      "path": "/icons/all/toggle-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/toggle-fill-accent.png"
+    },
+    {
+      "name": "toggle-fill-active",
+      "file": "toggle-fill-active.png",
+      "path": "/icons/all/toggle-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/toggle-fill-active.png"
+    },
+    {
+      "name": "toggle-fill-default",
+      "file": "toggle-fill-default.png",
+      "path": "/icons/all/toggle-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/toggle-fill-default.png"
+    },
+    {
+      "name": "toggle-line-accent",
+      "file": "toggle-line-accent.png",
+      "path": "/icons/all/toggle-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/toggle-line-accent.png"
+    },
+    {
+      "name": "toggle-line-active",
+      "file": "toggle-line-active.png",
+      "path": "/icons/all/toggle-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/toggle-line-active.png"
+    },
+    {
+      "name": "toggle-line-default",
+      "file": "toggle-line-default.png",
+      "path": "/icons/all/toggle-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/toggle-line-default.png"
+    },
+    {
+      "name": "trophy-fill-accent",
+      "file": "trophy-fill-accent.png",
+      "path": "/icons/all/trophy-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/trophy-fill-accent.png"
+    },
+    {
+      "name": "trophy-fill-active",
+      "file": "trophy-fill-active.png",
+      "path": "/icons/all/trophy-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/trophy-fill-active.png"
+    },
+    {
+      "name": "trophy-fill-default",
+      "file": "trophy-fill-default.png",
+      "path": "/icons/all/trophy-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/trophy-fill-default.png"
+    },
+    {
+      "name": "trophy-line-accent",
+      "file": "trophy-line-accent.png",
+      "path": "/icons/all/trophy-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/trophy-line-accent.png"
+    },
+    {
+      "name": "trophy-line-active",
+      "file": "trophy-line-active.png",
+      "path": "/icons/all/trophy-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/trophy-line-active.png"
+    },
+    {
+      "name": "trophy-line-default",
+      "file": "trophy-line-default.png",
+      "path": "/icons/all/trophy-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/trophy-line-default.png"
+    },
+    {
+      "name": "truck-accent",
+      "file": "truck-accent.png",
+      "path": "/icons/all/truck-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/truck-accent.png"
+    },
+    {
+      "name": "truck-active",
+      "file": "truck-active.png",
+      "path": "/icons/all/truck-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/truck-active.png"
+    },
+    {
+      "name": "truck-default",
+      "file": "truck-default.png",
+      "path": "/icons/all/truck-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/truck-default.png"
+    },
+    {
+      "name": "truck-fill-accent",
+      "file": "truck-fill-accent.png",
+      "path": "/icons/all/truck-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/truck-fill-accent.png"
+    },
+    {
+      "name": "truck-fill-active",
+      "file": "truck-fill-active.png",
+      "path": "/icons/all/truck-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/truck-fill-active.png"
+    },
+    {
+      "name": "truck-fill-default",
+      "file": "truck-fill-default.png",
+      "path": "/icons/all/truck-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/truck-fill-default.png"
+    },
+    {
+      "name": "truck-line-accent",
+      "file": "truck-line-accent.png",
+      "path": "/icons/all/truck-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/truck-line-accent.png"
+    },
+    {
+      "name": "truck-line-active",
+      "file": "truck-line-active.png",
+      "path": "/icons/all/truck-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/truck-line-active.png"
+    },
+    {
+      "name": "truck-line-default",
+      "file": "truck-line-default.png",
+      "path": "/icons/all/truck-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/truck-line-default.png"
+    },
+    {
+      "name": "upload-accent",
+      "file": "upload-accent.png",
+      "path": "/icons/all/upload-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/upload-accent.png"
+    },
+    {
+      "name": "upload-active",
+      "file": "upload-active.png",
+      "path": "/icons/all/upload-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/upload-active.png"
+    },
+    {
+      "name": "upload-default",
+      "file": "upload-default.png",
+      "path": "/icons/all/upload-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/upload-default.png"
+    },
+    {
+      "name": "user-accent",
+      "file": "user-accent.png",
+      "path": "/icons/all/user-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/user-accent.png"
+    },
+    {
+      "name": "user-active-accent",
+      "file": "user-active-accent.png",
+      "path": "/icons/all/user-active-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/user-active-accent.png"
+    },
+    {
+      "name": "user-active-active",
+      "file": "user-active-active.png",
+      "path": "/icons/all/user-active-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/user-active-active.png"
+    },
+    {
+      "name": "user-active-default",
+      "file": "user-active-default.png",
+      "path": "/icons/all/user-active-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/user-active-default.png"
+    },
+    {
+      "name": "user-active",
+      "file": "user-active.png",
+      "path": "/icons/all/user-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/user-active.png"
+    },
+    {
+      "name": "user-default",
+      "file": "user-default.png",
+      "path": "/icons/all/user-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/user-default.png"
+    },
+    {
+      "name": "user-fill_colored-accent",
+      "file": "user-fill_colored-accent.png",
+      "path": "/icons/all/user-fill_colored-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/user-fill_colored-accent.png"
+    },
+    {
+      "name": "user-fill_colored-active",
+      "file": "user-fill_colored-active.png",
+      "path": "/icons/all/user-fill_colored-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/user-fill_colored-active.png"
+    },
+    {
+      "name": "user-fill_colored-default",
+      "file": "user-fill_colored-default.png",
+      "path": "/icons/all/user-fill_colored-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/user-fill_colored-default.png"
+    },
+    {
+      "name": "user-line_colored-accent",
+      "file": "user-line_colored-accent.png",
+      "path": "/icons/all/user-line_colored-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/user-line_colored-accent.png"
+    },
+    {
+      "name": "user-line_colored-active",
+      "file": "user-line_colored-active.png",
+      "path": "/icons/all/user-line_colored-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/user-line_colored-active.png"
+    },
+    {
+      "name": "user-line_colored-default",
+      "file": "user-line_colored-default.png",
+      "path": "/icons/all/user-line_colored-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/user-line_colored-default.png"
+    },
+    {
+      "name": "vip-crown-accent",
+      "file": "vip-crown-accent.png",
+      "path": "/icons/all/vip-crown-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/vip-crown-accent.png"
+    },
+    {
+      "name": "vip-crown-active",
+      "file": "vip-crown-active.png",
+      "path": "/icons/all/vip-crown-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/vip-crown-active.png"
+    },
+    {
+      "name": "vip-crown-default",
+      "file": "vip-crown-default.png",
+      "path": "/icons/all/vip-crown-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/vip-crown-default.png"
+    },
+    {
+      "name": "vip-crown-fill-accent",
+      "file": "vip-crown-fill-accent.png",
+      "path": "/icons/all/vip-crown-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/vip-crown-fill-accent.png"
+    },
+    {
+      "name": "vip-crown-fill-active",
+      "file": "vip-crown-fill-active.png",
+      "path": "/icons/all/vip-crown-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/vip-crown-fill-active.png"
+    },
+    {
+      "name": "vip-crown-fill-default",
+      "file": "vip-crown-fill-default.png",
+      "path": "/icons/all/vip-crown-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/vip-crown-fill-default.png"
+    },
+    {
+      "name": "vip-crown-line-accent",
+      "file": "vip-crown-line-accent.png",
+      "path": "/icons/all/vip-crown-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/vip-crown-line-accent.png"
+    },
+    {
+      "name": "vip-crown-line-active",
+      "file": "vip-crown-line-active.png",
+      "path": "/icons/all/vip-crown-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/vip-crown-line-active.png"
+    },
+    {
+      "name": "vip-crown-line-default",
+      "file": "vip-crown-line-default.png",
+      "path": "/icons/all/vip-crown-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/vip-crown-line-default.png"
+    },
+    {
+      "name": "vip-diamond-fill-accent",
+      "file": "vip-diamond-fill-accent.png",
+      "path": "/icons/all/vip-diamond-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/vip-diamond-fill-accent.png"
+    },
+    {
+      "name": "vip-diamond-fill-active",
+      "file": "vip-diamond-fill-active.png",
+      "path": "/icons/all/vip-diamond-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/vip-diamond-fill-active.png"
+    },
+    {
+      "name": "vip-diamond-fill-default",
+      "file": "vip-diamond-fill-default.png",
+      "path": "/icons/all/vip-diamond-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/vip-diamond-fill-default.png"
+    },
+    {
+      "name": "vip-diamond-line-accent",
+      "file": "vip-diamond-line-accent.png",
+      "path": "/icons/all/vip-diamond-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/vip-diamond-line-accent.png"
+    },
+    {
+      "name": "vip-diamond-line-active",
+      "file": "vip-diamond-line-active.png",
+      "path": "/icons/all/vip-diamond-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/vip-diamond-line-active.png"
+    },
+    {
+      "name": "vip-diamond-line-default",
+      "file": "vip-diamond-line-default.png",
+      "path": "/icons/all/vip-diamond-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/vip-diamond-line-default.png"
+    },
+    {
+      "name": "vip-fill-accent",
+      "file": "vip-fill-accent.png",
+      "path": "/icons/all/vip-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/vip-fill-accent.png"
+    },
+    {
+      "name": "vip-fill-active",
+      "file": "vip-fill-active.png",
+      "path": "/icons/all/vip-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/vip-fill-active.png"
+    },
+    {
+      "name": "vip-fill-default",
+      "file": "vip-fill-default.png",
+      "path": "/icons/all/vip-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/vip-fill-default.png"
+    },
+    {
+      "name": "vip-line-accent",
+      "file": "vip-line-accent.png",
+      "path": "/icons/all/vip-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/vip-line-accent.png"
+    },
+    {
+      "name": "vip-line-active",
+      "file": "vip-line-active.png",
+      "path": "/icons/all/vip-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/vip-line-active.png"
+    },
+    {
+      "name": "vip-line-default",
+      "file": "vip-line-default.png",
+      "path": "/icons/all/vip-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/vip-line-default.png"
+    },
+    {
+      "name": "wallet-2-fill-accent",
+      "file": "wallet-2-fill-accent.png",
+      "path": "/icons/all/wallet-2-fill-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/wallet-2-fill-accent.png"
+    },
+    {
+      "name": "wallet-2-fill-active",
+      "file": "wallet-2-fill-active.png",
+      "path": "/icons/all/wallet-2-fill-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/wallet-2-fill-active.png"
+    },
+    {
+      "name": "wallet-2-fill-default",
+      "file": "wallet-2-fill-default.png",
+      "path": "/icons/all/wallet-2-fill-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/wallet-2-fill-default.png"
+    },
+    {
+      "name": "wallet-2-line-accent",
+      "file": "wallet-2-line-accent.png",
+      "path": "/icons/all/wallet-2-line-accent.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/wallet-2-line-accent.png"
+    },
+    {
+      "name": "wallet-2-line-active",
+      "file": "wallet-2-line-active.png",
+      "path": "/icons/all/wallet-2-line-active.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/wallet-2-line-active.png"
+    },
+    {
+      "name": "wallet-2-line-default",
+      "file": "wallet-2-line-default.png",
+      "path": "/icons/all/wallet-2-line-default.png",
+      "url": "https://cdn.jsdelivr.net/gh/YOUR_GITHUB_USERNAME/labralume-icons@latest/icons/all/wallet-2-line-default.png"
+    }
+  ]
+}
